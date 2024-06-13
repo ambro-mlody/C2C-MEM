@@ -3,7 +3,7 @@ NOT FINISHED YET!
 <h2>Please feel free to proposee changes, or edit map yourself. I know nothing about the world so the map may not be very accurate in some places. If You feel like you can improve it, do it.</h2>
 Realy big earth map for Caveman2Cosmos.<br/>
 Based on Earth by God.<br/>
-Size: 360x180<br/>
+Size: 320x140<br/>
 Viewports are necessary for it to work.<br/>
 It uses Equirectangular projection.<br/>
 Height map based on https://visibleearth.nasa.gov/images/73934/topography for land, and https://visibleearth.nasa.gov/images/73963/bathymetry for oceans.<br/>
