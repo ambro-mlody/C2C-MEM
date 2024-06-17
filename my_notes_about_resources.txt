@@ -6,7 +6,7 @@ ancient relics: // no info
 apple: latitude +-20 to +-60 cultures: croatian, english, mittani, mocovi = done
 banana: latitude 0 to +-30 cultures: caral supe, ghana, khmer, konjo, tairona = done
 barley: cultures: akkadian, burgundian, xia, yemeni = done
-bauxite ore: discovered in southern france = done //resource
+bauxite ore: discovered in southern france = done
 beavers: latitude: +-50 to +-90 cultures: ainu, canadian, czech, flemish, kitaran, filippino, russian, Tungus = done // animal
 Bison: latitude: 0 to +-65, cultures: helvetian, blackfoot, herero, polish, sioux, ukrainian = done // animal
 camel: latitude 0 to +-65, cultures: arabian, kushan, kushite, lydian, numidian, tuareg, Uighur = done // animal
@@ -27,7 +27,7 @@ diamond: cultures: jute, Kanem-Bornu, Turkish = done
 donkey: cultures: breton, dzungar, romani = done // animal
 elephants: latitude: 0 to +-30, cultures: dayak, ophir, pakistani, siamese, zulu = done // animal
 fig: latitude: 0 to 45, cultures: abbasid, adenan, sicilian, wallachian = done
-fine clay: cultures: chumash, kipchak, hungarian, joseon, latvian, noongar, tlatilco, valdivian = done // resource
+fine clay: cultures: chumash, kipchak, hungarian, joseon, latvian, noongar, tlatilco, valdivian = done // no production info
 fish: cultures: Furawi, japanese, nootka, pilaga, polynesian, portugese, swahili, swedish = done // animal
 flax: cultures: batavian, mohawk, tang, tatar = done
 fossil beds: = done
@@ -44,32 +44,32 @@ hytrothermal vent: = done
 incense: cultures: himayarite, holy roman, huastec, sican, xianbei = done // no production info
 indigo, latitude: 0 to +-60, cultures: aksumite, guyanese, hausa, ilocano, mayan, venetian = done // no production info
 iron ore: cultures: byzantine, gokturk, killke, mexican, norman, saxon, songhai = done
-jade: cultures: lianghzu, median, olmec, shang = done // resource
+jade: cultures: lianghzu, median, olmec, shang = done // no production info
 kangaroo: latitude: -70 to +10, cultures: aborigine = done
 kava: latitude: -30 to +10, cultures: chamorran = done
-lead ore: cultures: athenian, bulgarian, epirus, illyrian, qin, swazi, trojan = done // resource
+lead ore: cultures: athenian, bulgarian, epirus, illyrian, qin, swazi, trojan = done
 lemons: latitude: 0 to +-30 = done
 llama: cultures: kogi, quechua, yanomami = done
 lobster:  cultures: nebateans = done // animal
 mammoths: latitude: +-50 to +-90, cultures: siberian = done // animal
-manganese: = done // resource
+manganese: = done
 mango: latitude: 0 to +-30, cultures: papuan = done
-marble: cultures: azande, georgian, greek, ming, mughal, peruvian = done // resource
+marble: cultures: azande, georgian, greek, ming, mughal, peruvian = done // no production info
 melons: latitude: 0 to +-40, cultures: kazakh = done
 methane ice: = done
 murex: latitude: 0 to +-23, cultures: andamanese, avernian, carthaginian, phoenician, tunisian = done // animal
 mushrooms: cultures: carib, goth, kurdish, muisca, pictish, qiang = done // no production info
-natron: = done // resource
+natron: = done // no production info
 natural gas: cultures: jordanian, soviet = done
-obsidian: cultures: aztec, melanesian, saka
-oil: cultures: norwegian, texan, venezuelan
-olives: latitude: +-20 to +-50, cultures: iraqi, khazar, roman, syrian, tajik
-opium: latitude: +-20 to +-50, cultures: fatimid, sudanese
-papaya: latitude: 0 to +-25, cultures: guarani, tagalog, taiwanese
-papyrus: latitude: 0 to +-60, cultures: nubian
-parrots: latitude: 0 to +-45, cultures: amis, omani, tupi
-pearls: cultures: dravidian, indonesian, quolla, samoan, tongan, yaghan
-peyote: cultures: apache, capayan, paiute
+obsidian: cultures: aztec, melanesian, saka // no production info
+oil: cultures: norwegian, texan, venezuelan = done
+olives: latitude: +-20 to +-50, cultures: iraqi, khazar, roman, syrian, tajik = done
+opium: latitude: +-20 to +-50, cultures: fatimid, sudanese = done
+papaya: latitude: 0 to +-25, cultures: guarani, tagalog, taiwanese = done
+papyrus: latitude: 0 to +-60, cultures: nubian = done // no production info
+parrots: latitude: 0 to +-45, cultures: amis, omani, tupi = done // animal
+pearls: cultures: dravidian, indonesian, quolla, samoan, tongan, yaghan = done // animal
+peyote: cultures: apache, capayan, paiute = done // no production info
 pig: latitude: 0 to +-50, cultures: bavarian, german, indus, korean, semang, tanzanian
 pistachio: latitude: 0 to +-50, cultures: canari, paraguayan
 platinum ore: cultures: prussian
