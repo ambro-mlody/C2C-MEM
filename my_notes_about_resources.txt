@@ -1,0 +1,424 @@
+Caves = done
+Volcanos = done
+Almonds:  latitude 0 to +-50 cultures: Palestinian = done
+amber: cultures: alemannic, franks, pashtun, tasmanian, yagua, yoingu = done
+ancient relics: // no info
+apple: latitude +-20 to +-60 cultures: croatian, english, mittani, mocovi = done
+banana: latitude 0 to +-30 cultures: caral supe, ghana, khmer, konjo, tairona = done
+barley: cultures: akkadian, burgundian, xia, yemeni = done
+bauxite ore: discovered in southern france = done //resource
+beavers: latitude: +-50 to +-90 cultures: ainu, canadian, czech, flemish, kitaran, filippino, russian, Tungus = done // animal
+Bison: latitude: 0 to +-65, cultures: helvetian, blackfoot, herero, polish, sioux, ukrainian = done // animal
+camel: latitude 0 to +-65, cultures: arabian, kushan, kushite, lydian, numidian, tuareg, Uighur = done // animal
+Clam: latitude: 0 to +-50, cultures: algerian, dahomey, tahitian, Toba, welsh = done // animal
+coal: cultures: saudi = done
+coca: latitude 0 to +-30, cultures: chippewa, nazca, panaman = done
+cocoa: latitude 0 to +-25, cultures: belgian, mixtec, wayana = done
+coconut: latitude 0 to +-30, cultures: hawaiian, malaysian = done
+coffe: latitude 0 to +-30, cultures: Cambeba, Colombian, Ethiopian = done
+Copper ore: cultures: dacian, hyksosi, khitan, macedonian, poya, spartan, tiwi = done
+corn: latitudes +-20 to +-50, cultures: arawak, hopi, manchurian, missisipian = done
+cotton: latitude 0 to +-30, cultures: confederates, Fulani, Mameluk, Turkmen = done
+cow: latitude 0 to +-50, cultures: american, argentinian, hittite, masai, minoan, qing, senegali, tibetan, uruguayan, uzbek = done // animal
+crab: latitude: +-30 to +-90, cultures: chimu, fijian, jomon, philistine, slovenian = done // animal
+dates: latitude: 0 to +-50, cultures: zanzibari = done
+deer: latitude: +-20 to +-90, cultures: bedouin, belizean, chavin, huron, nigerian, sami = done // animal
+diamond: cultures: jute, Kanem-Bornu, Turkish = done
+donkey: cultures: breton, dzungar, romani = done // animal
+elephants: latitude: 0 to +-30, cultures: dayak, ophir, pakistani, siamese, zulu = done // animal
+fig: latitude: 0 to 45, cultures: abbasid, adenan, sicilian, wallachian = done
+fine clay: cultures: chumash, kipchak, hungarian, joseon, latvian, noongar, tlatilco, valdivian = done // resource
+fish: cultures: Furawi, japanese, nootka, pilaga, polynesian, portugese, swahili, swedish = done // animal
+flax: cultures: batavian, mohawk, tang, tatar = done
+fossil beds: = done
+geode: = done
+geothermal energy: = done
+gold ore: cultures: angolan, aragonese, australian, californian, danish, mutapa, nok, persian, spanish, thracian, three kingdoms, xiongnu, zapotec = done
+grapes: latitude: +-20 to +-50, cultures: armenian, catalonian, french, galatian, klamath, longobardian, quebecker, vietnamese = done
+guavas: latitude: 0 to +-25 = done
+guinea pigs: latitude: 0 to +-45 // animal
+hemp: cultures: dutch, guatemalan, jamaican, jivaro, mandan, nepalese, somali = done
+henna: latitude: 0 to +-30, cultures: bashkir, sabbatean // no production info
+horse: latitude: +-30 to +-90, cultures: assyrian, cheyenne, comanche, ecuadorian, gaucho, hun, mongolian, roxolani = done // animal
+hytrothermal vent: = done
+incense: cultures: himayarite, holy roman, huastec, sican, xianbei = done // no production info
+indigo, latitude: 0 to +-60, cultures: aksumite, guyanese, hausa, ilocano, mayan, venetian = done // no production info
+iron ore: cultures: byzantine, gokturk, killke, mexican, norman, saxon, songhai = done
+jade: cultures: lianghzu, median, olmec, shang = done // resource
+kangaroo: latitude: -70 to +10, cultures: aborigine = done
+kava: latitude: -30 to +10, cultures: chamorran = done
+lead ore: cultures: athenian, bulgarian, epirus, illyrian, qin, swazi, trojan = done // resource
+lemons: latitude: 0 to +-30 = done
+llama: cultures: kogi, quechua, yanomami = done
+lobster:  cultures: nebateans = done // animal
+mammoths: latitude: +-50 to +-90, cultures: siberian = done // animal
+manganese: = done // resource
+mango: latitude: 0 to +-30, cultures: papuan = done
+marble: cultures: azande, georgian, greek, ming, mughal, peruvian = done // resource
+melons: latitude: 0 to +-40, cultures: kazakh = done
+methane ice: = done
+murex: latitude: 0 to +-23, cultures: andamanese, avernian, carthaginian, phoenician, tunisian = done // animal
+mushrooms: cultures: carib, goth, kurdish, muisca, pictish, qiang = done // no production info
+natron: = done // resource
+natural gas: cultures: jordanian, soviet = done
+obsidian: cultures: aztec, melanesian, saka
+oil: cultures: norwegian, texan, venezuelan
+olives: latitude: +-20 to +-50, cultures: iraqi, khazar, roman, syrian, tajik
+opium: latitude: +-20 to +-50, cultures: fatimid, sudanese
+papaya: latitude: 0 to +-25, cultures: guarani, tagalog, taiwanese
+papyrus: latitude: 0 to +-60, cultures: nubian
+parrots: latitude: 0 to +-45, cultures: amis, omani, tupi
+pearls: cultures: dravidian, indonesian, quolla, samoan, tongan, yaghan
+peyote: cultures: apache, capayan, paiute
+pig: latitude: 0 to +-50, cultures: bavarian, german, indus, korean, semang, tanzanian
+pistachio: latitude: 0 to +-50, cultures: canari, paraguayan
+platinum ore: cultures: prussian
+pomegranate: latitude: 0 to +-50, cultures: safavid
+potatoes: latitude: +-30 to +-60, cultures: incan, irish, zuni
+poultry: cultures: briton, cantonese, hopewell, kenyan, lusitanian, nahua, slovakian, wari
+prickly pear: cultures: mollo, surinamese
+prime timber: cultures: burmese, Celtiberian, hurrians, iroquois, kongolese, lebanese, maori, orang asli, sintashta, viking
+pumpkin: latitude 0 to +-40, cultures: cherokee, red ocher, Tucano
+rabbit: cultures: austrian, avaric, cree, maric
+resin: cultures: chechen, lithuanian, tlaxcaltec
+rice: latitude: 0 to +-50, cultures: hemudu, merina, thai
+rubber: latitude: 0 to +-20
+rubies: culture: ghurid, libyan
+salt: cultures: bangladeshi, israeli, malinese, transoxanian
+sapphires: cultures: bagraini, luba
+sea lion and seal: cultures: dene, fuegian, scotish, south african, vanuatuan
+sheep: latitude: +-20 to +-90, cultures: afghan, albanian, berber, celtic, navajo, new zealander. serbian, sumerian
+shrimp: cultures: estonian, seminole, sundanese, yamato
+silk: cultures: chinese, khwarazmian, sassanian
+silver ore: cultures: bactric, bolivian, la platan, malagasy, nama, saffarid, scythian, swiss, timurid, wayuu
+spices: cultures: indian, aymara, bandanese, basque, batek, etruscan, mani, moroccan
+squasz: latitude: 0 to +-40 cultures: zenu
+stone: cultures: egyptian, guanches, micronesian, poverty point, rapa nui, sarmatian, tamil, toltec
+sugar: latitude: 0 to +-36, cultures: brazilian, cham, haitian, javanese
+sulphur: cultures: ashanti, bengali, iranian, ottoman, pima
+tea: latitude: =-20 to +-60, cultures: alacalufe, ceylonese, hongkonger, lunda, seljuk
+tin ore: cultures: chola, parthian, tarascan
+titanium ore:
+tobacco: latitude: +-15 to +-60, cultures: chilean, cuban, lule, odawa, rhodesian, waray
+turquoise: latitude: 0 to +-40, cultures: anasazi, kuwaiti, massagetae, moche, vandal
+uranium: 
+vanilia: latitude: 0 to +-30, cultures: chachapoya, totonac
+walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi
+whale: cultures: icelandic, puelche, puntic, zimbabwean
+wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar
+-- random assignment for "//", reduction of all bonuses
+!Extras:
+Brazil Nut: almonds + coffee
+Cashew: almonds + corn
+chestnut: almonds + tea
+cinnamomum: almonds + spices
+Gevuina: almonds + Guavas
+Hazelnut: almonds + cocoa
+macadamia: almonds + olives
+mongongo: almonds + melons
+morel mushrooms: almonds + mushrooms
+peanut: almonds + potatoes
+pecan: almonds + tobacco
+pine nut: almonds + prime timber
+walnut: almonds + lemons
+cicada gatherer: almonds + silk
+citrine: amber + sulphur
+topaz: amber + gold ore
+unesco heritage site: ancient relics
+rosetta stone: ancient relics
+apricot: apple + olives
+atemoya: apple + papaya
+bolete: apple + mushrooms
+breadfruit: apple + wheat
+cherry: apple + prime timber
+ducks: apple + poultry
+loquat: apple + mango
+orange: apple + lemons
+peach: apple + rice
+pear: apple + tea
+pitaya: apple + tobacco
+plum: apple + sugar
+rose: apple + flax
+strawberry: apple + grapes
+tomatillo: apple + corn
+tomato: apple + potatoes
+durian: banana + coffee
+hibiscus: banana + flax
+jungleflowl: banana + parrots
+kiwifruit: banana + cotton
+monkey breeder: banana
+persimmon: banana + rice
+pineapple: banana + sugar
+plantain: banana + olives
+snow fungus: banana + mushrooms
+starfruit: banana + guavas
+tangerine: banana + lemons
+taro: bananas + potatoes
+foxglove: barley + flax
+gerbil breeder: barley + guinea pigs
+grasshopper gatherer: barley + silk
+parakeet: barley + parrots
+rye: barley + wheat
+sassafras: barley + spices
+berlinite: bauxite + diamond
+caesium: bauxite + silver
+chromite: bauxite + iron
+lazulite: bauxite + sapphires
+nickel: bauxite + sulphur
+breeding program fox: beavers
+hippo (trap/bp): bison + elephants
+cod: clam + fish
+conch: clam + murex
+giant clam: clam + whales
+sea turtle egg: clam + sea lion and seal
+squid: clam + pearls
+graphite: coal + stone
+shale plant: coal + stone
+jet: coal + obsidian
+mascagnite: coal + sulphur
+quetzal: cocoa + parrots
+scorpion gatherer: cocoa + silk
+birds-of-paradise: coconut + parrots
+cassava: coconut + potatoes
+longan: coconut + mango
+blueberry: coffe + grapes
+giant cockroach gatherer: coffe + silk
+macaw: coffee + parrots
+turnip: coffee + potatoes
+Po ngbe: olmec + copper | iron
+zinc: copper + silver
+artichoke: corn + olives
+avocado: corn + lemons
+bell pepper: corn + potatoes
+raccoon: corn + beavers
+cherimoya: corn + papaya
+chili: corn + spices
+corn smut: corn + mushrooms
+eggplant: corn + rice
+hamster breeder: corn + guinea pigs
+jumiles gatherer: corn + silk
+papaya: corn + mango
+quinoa: corn + wheat
+trap(racoon): corn + beavers
+sunflower: corn + flax
+turkey: corn + poultry
+zucchini: corn + squash
+cauliflower: cotton + potatoes
+cauliflower mushroom: cotton + mushrooms
+daisy: cotton + flax
+weaving spider gatherer: cotton + silk
+oxen farm: cow
+yak farm: cow + peak
+jujube: dates + mango
+palm weeveil gatherer: dates + silk
+antelope (trap/bp): deer + horse
+caribu (trap/bp): deer + taiga/tundra/ice + latitude < 40
+giraffe (trap/bp): deer + elephants
+moose(trap/bp): deer
+fly agaric gatherer: deer + mushrooms
+quartz: diamond + stone
+ostrich (trap/bp): elephants + poultry
+rhino (trap/bp): elephants + pigs
+zebra (trap/bp): elephants + horse
+dung beetle gatherer: elephants + silk
+ming vase workshop: fine clay
+nok sculpture workshop: fine clay
+red and black ware painter: fine clay
+terra sigillata workshop: fine clay
+potash: fine clay + salt
+anchovy: fish + pearls
+cormorant trainer: fish + poultry
+dragonfly gatherer: fish + silk
+flounder: fish + murex
+sardine: fish + shrimp
+sea bass: fish + sea lion and seal
+shark: fish + whale
+shiitake mushroom: fish + mushrooms
+snapper: fish + lobser
+begonia: flax + sugar
+bluebell+ flax + tobacco
+butterfly gatherer: flax + silk
+carnation: flax + lemons
+coral tooth mushroom: flax + mushroom
+hummingbird: flax + parrots
+iris: flax + potatoes
+lily: flax + rice
+orchid: flax + tea
+pansy: flax + spices
+snapdragon: flax + incense
+tulip: flax + wheat
+violet: flax + hemp
+ammonite fossil: fb + clam
+archaeopteryx fossil: fb + pultry
+dimetrodon fossil: fb + pigs
+ichthyostega fossil: fb + coal
+mamooth fossil: fb + mammoths
+neanderthal fossil: fb + stone
+petrified wood: fb + prime timber
+plesiosaur fossils: fb + whale
+pterodactyl fossil: fb + oil
+shark teeth: fb + fish
+smilodon fossil; fb + wheat
+triceratops fossil: fb + cow
+trilobite fossil: fb + crab
+velocilaptor fossil: fb + horse
+bearberry: grapes + tea
+belladona: grapes
+blackberry: grapes + tobacco
+blueberry: grapes + coffee
+Cranaberry: grapes + rice
+Elderberry: grapes + hemp
+Falconer: grapes + poultry
+goosberry: grapes + olives
+grapefruit: grapes + lemons
+lyches: grapes + mango
+peppermint: grapes + spices
+portobello mushroom: grapes + mushrooms
+raspberry: grapes + sugar
+vineyard: grapes
+mouse breeder: guinea pigs + wheat
+rat breeder: guinea pigs + rice
+cola: hemp + prime timber
+cannabis: hemp
+spinach: hemp + potatoes
+marsh Mallow: hemp + sugar
+frankincense: incense
+myrrh: incense + tea
+saffron: incense + spices
+scarb beetle: incense + silk
+brazilwood: indigo + prime timber
+cochineal: indigo + prickly pear
+death cap mushroom: indigo
+fustic: indigo + papaya
+junebug gatherer: indigo + silk
+madder: indigo + tea
+amethyst: iron ore + sapphires
+magnesium: iron ore + salt
+magnetite: iron ore + obsidian
+manganese: iron ore + lead ore
+pyrite: iron ore + sulphur
+tungsten: iron ore + tin ore
+jade death mask carver: jade
+liangzhu,olmec,shang jade jade carvers: jade
+emerald: jade + lead ore
+onyx: jade + marble
+emu: kangaroo + poultry
+diprotodon: kangaroo + mammoths
+lithium: lead ore + salt
+cinnabar: lead ore + silver ore
+chanterelle gatherer: lemons + mushrooms
+kumquat: lemons + mango
+lime: lemons + spices
+onion: lemons + potatoes
+radish+ lemon + wheat
+alpaca: llama
+rhe: llama + poultry
+megatherium: llama + mammoth
+centipide gatherer: lobster + silk
+prawn: lobster + shrimp
+wooly rhino: mamooth + pigs
+allspices: mango + spices
+jujube: mango + dates
+sapote: mango + papaya
+tarantula gatherer: mango + silk
+toucan: mango + poultry
+cheomseongdae: marble | stone
+The great pyramid: marble | stone
+the great sphinx: marble | stone
+hierapolis sawmill: marble | stone
+the parthenon: marble
+taj mahal: marble
+canteloupe: melons + pumpkin
+calabash: melons + squash
+goliath beetle: melons + silk
+honeydew: melons + sugar
+licorice: melons + spices
+abalone diggers: murex + pearls
+trufle: mushrooms + obsidian
+enokitake: mushrooms + spices
+hedgehog mushroom: mushrooms + bison
+oyster mushrooms: mushrooms + pearls
+straw mushroom: mushroom + rice
+pine mushroom: mushrooms + prime timber
+shaggy parasol mushroom: mushrooms + squash
+shimeji mushroom: mushroom + silk
+white truffle gatherer: mushrooms + pigs
+golden spike: oil | coal
+route 66: oil
+broccoli: olives + potatoes
+goose: olives + poultry
+lettuce: olives + rice
+oat: olives + wheat
+black pepper: olives + spices
+hercules beattle: papaya + silk
+nutmeg + papaya + spices
+assasin bug: parrots + silk
+canary: parrots + wheat
+cockatoo: parrots + pistachio
+peacock: parrots + spices
+parrotfish: pearls + whale
+cardon cactus: peyote + prickly pear
+mezcal worm: peyote + silk
+praying mantis: peyote + tea
+boar: pigs
+firefly gatherer: pistachio + silk
+cabbage: potatoes + tea
+carrot: potatoes + wheat
+cucumber: potatoes + squash
+garlic: potatoes + spices
+kale: potatoes + tobacco
+leek: potatoes + rice
+sweet potatoes: potatoes + sugar
+pigeon: poultry + stone
+agave+ prickly pear + sugar
+ark of covenant: prime timber
+confuncian school: prime timber
+quanzhen school: prime timber
+oak: prime timber + wheat
+cloves: prime timber + spices
+curare: prime timber
+maple: prime timber + sugar
+chinchilla: rabbit + beavers
+acacia: resin + spices
+mopane moth: resin + silk
+celery: rice + sugar
+ginger root: rice + spices
+soybean: rice + wheat
+wasabi: rice + tea
+garnet: rubies + salt
+borax: salt + stone
+fluorite: sapphires + stone
+beluga: sea lion and seal + whale
+elephant seal: sea lion and seal + walrus
+sea otter: sea lion and seal + beavers
+mink: sheep + beavers
+mouflon: sheep
+muskox: sheep + bison
+goat: sheep
+marlin: shrimp + whale
+pillbug: shrimp + silk
+cricket gatherer: silk + spices
+mealworm gatherer: silk + wheat
+chives: spices + tobacco
+ginkgo: spices + tea
+rhubarb: spices + sugar
+sesame: spices + wheat
+via appia: stone
+behistun inscription: stone
+el escoral: stone
+six harmonies pagoda: stone
+gate of the sun: stone
+gobekil tepe: stone
+krak des chevaliers: stone
+ha'amonga'a Maui: stone
+moai status: stone
+muiderslot castle: stone
+stonehenge: stone
+fine stoneware carvers: stone
+chalk: stone
+cobalt: stone + sulphur
+lizards: stone
+sorghum: sugar + wheat
+millet: tea + wheat
+narwhal: walrus + whale
+-- final reduction, balancing
