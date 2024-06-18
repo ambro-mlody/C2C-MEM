@@ -37,7 +37,7 @@ gold ore: cultures: angolan, aragonese, australian, californian, danish, mutapa,
 grapes: latitude: +-20 to +-50, cultures: armenian, catalonian, french, galatian, klamath, longobardian, quebecker, vietnamese = done
 guavas: latitude: 0 to +-25 = done
 guinea pigs: latitude: 0 to +-45 // animal
-hemp: cultures: dutch, guatemalan, jamaican, jivaro, mandan, nepalese, somali = done
+hemp: cultures: dutch, guatemalan, jamaican, jivaro, mandan, nepalese, somali = done // no production info
 henna: latitude: 0 to +-30, cultures: bashkir, sabbatean // no production info
 horse: latitude: +-30 to +-90, cultures: assyrian, cheyenne, comanche, ecuadorian, gaucho, hun, mongolian, roxolani = done // animal
 hytrothermal vent: = done
@@ -77,13 +77,13 @@ pomegranate: latitude: 0 to +-50, cultures: safavid = done
 potatoes: latitude: +-30 to +-60, cultures: incan, irish, zuni = done // common
 poultry: cultures: briton, cantonese, hopewell, kenyan, lusitanian, nahua, slovakian, wari = done // animal
 prickly pear: cultures: mollo, surinamese = done // no production info
-prime timber: cultures: burmese, Celtiberian, hurrians, iroquois, kongolese, lebanese, maori, orang asli, sintashta, viking
-pumpkin: latitude 0 to +-40, cultures: cherokee, red ocher, Tucano
-rabbit: cultures: austrian, avaric, cree, maric
-resin: cultures: chechen, lithuanian, tlaxcaltec
-rice: latitude: 0 to +-50, cultures: hemudu, merina, thai
-rubber: latitude: 0 to +-20
-rubies: culture: ghurid, libyan
+prime timber: cultures: burmese, Celtiberian, hurrians, iroquois, kongolese, lebanese, maori, orang asli, sintashta, viking = done
+pumpkin: latitude 0 to +-40, cultures: cherokee, red ocher, Tucano = done
+rabbit: cultures: austrian, avaric, cree, maric = done // animal
+resin: cultures: chechen, lithuanian, tlaxcaltec = done // no production info
+rice: latitude: 0 to +-50, cultures: hemudu, merina, thai = done
+rubber: latitude: 0 to +-20 = done
+rubies: culture: ghurid, libyan = done
 salt: cultures: bangladeshi, israeli, malinese, transoxanian
 sapphires: cultures: bagraini, luba
 sea lion and seal: cultures: dene, fuegian, scotish, south african, vanuatuan
@@ -92,7 +92,7 @@ shrimp: cultures: estonian, seminole, sundanese, yamato
 silk: cultures: chinese, khwarazmian, sassanian
 silver ore: cultures: bactric, bolivian, la platan, malagasy, nama, saffarid, scythian, swiss, timurid, wayuu
 spices: cultures: indian, aymara, bandanese, basque, batek, etruscan, mani, moroccan
-squasz: latitude: 0 to +-40 cultures: zenu
+squash: latitude: 0 to +-40 cultures: zenu
 stone: cultures: egyptian, guanches, micronesian, poverty point, rapa nui, sarmatian, tamil, toltec
 sugar: latitude: 0 to +-36, cultures: brazilian, cham, haitian, javanese
 sulphur: cultures: ashanti, bengali, iranian, ottoman, pima

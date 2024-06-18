@@ -15735,6 +15735,7 @@ BeginPlot
 	x=21, y=124
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -22972,6 +22973,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -33115,6 +33117,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45, y=116
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -34547,6 +34550,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47, y=107
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -35285,6 +35289,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48, y=104
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -39872,6 +39877,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=54, y=116
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -47171,6 +47177,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64, y=82
+	BonusType=BONUS_RESIN
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -49623,6 +49630,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=67, y=108
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -50198,6 +50206,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=68, y=78
+	BonusType=BONUS_RESIN
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -50426,6 +50435,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=68, y=114
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -52730,6 +52740,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=71, y=109
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -53355,6 +53366,7 @@ BeginPlot
 	x=72, y=86
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -53418,7 +53430,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=72, y=96
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -54072,6 +54084,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=73, y=77
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -54242,6 +54255,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=73, y=104
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -55838,6 +55852,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=75, y=112
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -57378,6 +57393,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=77, y=107
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -58203,6 +58219,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=78, y=114
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -58745,6 +58762,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=79, y=78
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -58915,6 +58933,7 @@ BeginPlot
 	x=79, y=104
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -59629,6 +59648,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=80, y=96
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -60285,6 +60305,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81, y=78
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -60452,6 +60473,7 @@ BeginPlot
 	x=81, y=105
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -61021,6 +61043,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=75
+	BonusType=BONUS_RUBBER
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -61047,6 +61070,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=80
+	BonusType=BONUS_RESIN
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -61131,6 +61155,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=95
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -61152,6 +61177,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=98
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -61858,6 +61884,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=83, y=92
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -63254,6 +63281,7 @@ BeginPlot
 	x=85, y=72
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -63478,6 +63506,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=85, y=108
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -64250,6 +64279,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=86, y=110
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -64930,11 +64960,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=87, y=97
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
 BeginPlot
 	x=87, y=98
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -64962,6 +64994,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=87, y=102
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -65619,6 +65652,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=88, y=87
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -65642,6 +65676,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=88, y=91
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -65775,6 +65810,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=88, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -66403,6 +66439,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=89, y=92
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -66447,6 +66484,7 @@ BeginPlot
 	x=89, y=99
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -67928,6 +67966,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=91, y=94
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -70064,6 +70103,7 @@ BeginPlot
 	x=94, y=54
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -71130,6 +71170,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=95, y=102
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -71153,6 +71194,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=95, y=106
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -72472,6 +72514,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=97, y=53
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -72531,6 +72574,7 @@ BeginPlot
 	x=97, y=61
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -73283,6 +73327,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=98, y=52
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -73361,6 +73406,7 @@ BeginPlot
 	x=98, y=63
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -74225,6 +74271,7 @@ BeginPlot
 	x=99, y=68
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -74910,6 +74957,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=100, y=48
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -74999,6 +75047,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=100, y=61
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -75726,6 +75775,7 @@ BeginPlot
 	x=101, y=46
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -75826,6 +75876,7 @@ BeginPlot
 	x=101, y=60
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -76137,6 +76188,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=101, y=115
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -76593,6 +76645,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=102, y=53
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -76720,6 +76773,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=102, y=69
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -77435,6 +77489,7 @@ BeginPlot
 	x=103, y=53
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -77755,6 +77810,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=103, y=110
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -78325,6 +78381,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=104, y=66
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -79036,6 +79093,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105, y=50
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -79129,6 +79187,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105, y=64
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -80669,6 +80728,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=107, y=58
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -80706,6 +80766,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=107, y=63
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -81481,6 +81542,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=108, y=59
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -82245,6 +82307,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=109, y=54
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -82843,6 +82906,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=110, y=24
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -83043,6 +83107,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=110, y=53
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -83055,6 +83120,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=110, y=55
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -83930,6 +83996,7 @@ BeginPlot
 	x=111, y=65
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -84510,6 +84577,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=112, y=32
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_BAMBOO, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
@@ -84644,6 +84712,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=112, y=52
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -84702,6 +84771,7 @@ BeginPlot
 	x=112, y=60
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -85420,6 +85490,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=113, y=52
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -86964,6 +87035,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=115, y=51
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -87014,6 +87086,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=115, y=58
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -87058,6 +87131,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=115, y=64
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -89322,6 +89396,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=118, y=57
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -89951,6 +90026,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=119, y=36
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -91498,6 +91574,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=121, y=42
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
@@ -91587,6 +91664,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=121, y=57
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -92307,6 +92385,7 @@ BeginPlot
 	x=122, y=52
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -95216,6 +95295,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=126, y=42
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -95965,6 +96045,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=127, y=43
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -96769,6 +96850,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=128, y=54
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -99654,6 +99736,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=132, y=51
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -103421,6 +103504,7 @@ BeginPlot
 	x=137, y=75
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -104114,6 +104198,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=138, y=70
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -105538,6 +105623,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=140, y=66
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -106289,6 +106375,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=141, y=67
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -106496,6 +106583,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=141, y=102
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -106555,6 +106643,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=141, y=113
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -107227,6 +107316,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=142, y=99
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -108840,6 +108930,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=144, y=117
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -109479,6 +109570,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=145, y=98
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -110977,6 +111069,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=147, y=97
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -111003,6 +111096,7 @@ BeginPlot
 	x=147, y=101
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -111558,6 +111652,7 @@ BeginPlot
 	x=148, y=66
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -111838,6 +111933,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=148, y=114
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -113103,6 +113199,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=150, y=73
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -114028,6 +114125,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=151, y=104
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -117583,6 +117681,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=156, y=66
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -118580,7 +118679,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=157, y=109
-	BonusType=BONUS_BARLEY
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -119424,6 +119523,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=158, y=122
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -119849,6 +119949,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=159, y=65
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -120742,6 +120843,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=160, y=85
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -121370,6 +121472,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=161, y=59
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -121432,6 +121535,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=161, y=68
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -121663,6 +121767,7 @@ BeginPlot
 	x=161, y=108
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RABBIT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -121744,6 +121849,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=161, y=121
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -122352,7 +122458,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=162, y=92
-	BonusType=BONUS_OLIVES
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_DARK_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
@@ -122979,6 +123085,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=64
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -123122,6 +123229,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=90
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
@@ -123317,6 +123425,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=124
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -123701,6 +123810,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=164, y=55
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -123888,6 +123998,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=164, y=87
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -123974,6 +124085,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=164, y=102
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -124076,6 +124188,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=164, y=118
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -124551,6 +124664,7 @@ BeginPlot
 	x=165, y=62
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -124948,6 +125062,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=165, y=128
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -125267,6 +125382,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=166, y=49
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -125619,7 +125735,7 @@ BeginPlot
 	x=166, y=106
 	isNOfRiver
 	RiverWEDirection=1
-	BonusType=BONUS_OLIVES
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -126147,6 +126263,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=167, y=58
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -126477,6 +126594,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=167, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -126535,6 +126653,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=167, y=121
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -126988,6 +127107,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -127009,6 +127129,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=168, y=63
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -127782,6 +127903,7 @@ BeginPlot
 	x=169, y=58
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -127948,7 +128070,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=169, y=87
-	BonusType=BONUS_OIL
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -128189,6 +128311,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=169, y=127
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -128495,6 +128618,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=44
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -128607,6 +128731,7 @@ BeginPlot
 	x=170, y=61
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -128652,6 +128777,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=68
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -129353,6 +129479,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=171, y=52
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -129638,6 +129765,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=171, y=101
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -129815,6 +129943,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=171, y=130
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -130081,6 +130210,7 @@ BeginPlot
 	x=172, y=40
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -130228,6 +130358,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=172, y=62
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -130458,6 +130589,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=172, y=102
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -130539,6 +130671,7 @@ BeginPlot
 	x=172, y=114
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_RESIN
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -130574,6 +130707,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=172, y=120
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -131084,6 +131218,7 @@ BeginPlot
 	x=173, y=65
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -131798,6 +131933,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=174, y=50
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -131853,6 +131989,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=174, y=59
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -132954,6 +133091,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=175, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -133042,6 +133180,7 @@ BeginPlot
 	x=175, y=125
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -133334,6 +133473,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=176, y=38
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -133747,7 +133887,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=176, y=107
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -133900,6 +134040,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -134281,6 +134422,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=177, y=58
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -134302,12 +134444,14 @@ BeginPlot
 	x=177, y=61
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
 BeginPlot
 	x=177, y=62
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -134600,6 +134744,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=177, y=111
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -134656,6 +134801,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=177, y=120
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -135119,6 +135265,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=178, y=62
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -135133,6 +135280,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=178, y=64
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -135444,6 +135592,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=178, y=117
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -135781,6 +135930,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=179, y=39
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -136634,6 +136784,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=180, y=47
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -136736,6 +136887,7 @@ BeginPlot
 	x=180, y=63
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -137051,6 +137203,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=180, y=115
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -137429,6 +137582,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=44
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -137467,6 +137621,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=49
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -137599,6 +137754,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=71
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -137926,6 +138082,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -138669,6 +138826,7 @@ BeginPlot
 	x=182, y=110
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -138712,6 +138870,7 @@ BeginPlot
 	x=182, y=116
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -139030,6 +139189,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=35
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -139129,6 +139289,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=52
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -139859,6 +140020,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=184, y=39
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -139887,6 +140049,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=184, y=43
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -140327,6 +140490,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=184, y=114
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -140841,6 +141005,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=185, y=66
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -141145,6 +141310,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=185, y=115
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -141592,6 +141758,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=186, y=54
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -141610,6 +141777,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=186, y=57
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -141931,6 +142099,7 @@ BeginPlot
 	x=186, y=111
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -142033,6 +142202,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=186, y=128
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -142359,6 +142529,7 @@ BeginPlot
 	x=187, y=49
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -142614,7 +142785,9 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=187, y=93
-	TerrainType=TERRAIN_DUNES
+	BonusType=BONUS_PRIME_TIMBER
+	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
+	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
 BeginPlot
@@ -143614,6 +143787,7 @@ BeginPlot
 	x=188, y=124
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -144327,6 +144501,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=189, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -144338,6 +144513,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=189, y=113
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -144796,6 +144972,7 @@ BeginPlot
 	x=190, y=58
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -145176,6 +145353,7 @@ BeginPlot
 	x=190, y=117
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -145192,6 +145370,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -146786,6 +146965,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=192, y=121
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -147459,6 +147639,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=193, y=104
+	BonusType=BONUS_RESIN
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -147471,6 +147652,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=193, y=106
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -147479,6 +147661,7 @@ BeginPlot
 	x=193, y=107
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -148201,6 +148384,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=194, y=96
+	BonusType=BONUS_PRIME_TIMBER
+	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -148641,6 +148826,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=195, y=35
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -148657,6 +148843,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=195, y=38
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -149087,6 +149274,7 @@ BeginPlot
 	x=195, y=111
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -149174,6 +149362,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=195, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -149468,6 +149657,7 @@ BeginPlot
 	x=196, y=41
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -150694,6 +150884,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=197, y=120
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -150702,6 +150893,7 @@ BeginPlot
 	x=197, y=121
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -151357,6 +151549,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=198, y=101
+	BonusType=BONUS_RABBIT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -151387,6 +151580,7 @@ BeginPlot
 	x=198, y=106
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -151818,6 +152012,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=199, y=46
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -152084,6 +152279,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=199, y=96
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -153718,6 +153914,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -153791,6 +153988,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=201, y=126
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -154435,6 +154633,7 @@ BeginPlot
 	x=202, y=108
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -154456,6 +154655,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=202, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -155971,6 +156171,7 @@ BeginPlot
 	x=204, y=111
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -156726,6 +156927,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=205, y=110
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -157528,6 +157730,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=206, y=116
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -158341,6 +158544,7 @@ BeginPlot
 	x=207, y=123
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -159764,6 +159968,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=209, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -161106,6 +161311,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=211, y=86
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -162017,6 +162223,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=212, y=114
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -162051,6 +162258,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=212, y=119
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -162107,6 +162315,7 @@ BeginPlot
 	x=212, y=126
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -162764,6 +162973,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=213, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -162776,6 +162986,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=213, y=113
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -164189,6 +164400,7 @@ BeginPlot
 	x=215, y=95
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -165650,6 +165862,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=217, y=89
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
@@ -166393,6 +166606,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=218, y=87
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -166420,6 +166634,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=218, y=92
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
@@ -167122,6 +167337,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=82
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -167208,6 +167424,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=95
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -167397,6 +167614,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=127
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -167901,6 +168119,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -167940,6 +168159,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=220, y=90
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
 EndPlot
@@ -168697,6 +168917,7 @@ BeginPlot
 	x=221, y=90
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -169502,7 +169723,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -170997,6 +171218,7 @@ BeginPlot
 	x=224, y=80
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -171025,6 +171247,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=224, y=84
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -171108,6 +171331,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=224, y=96
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -171231,6 +171455,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=224, y=118
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -171737,12 +171962,14 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=225, y=74
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
 BeginPlot
 	x=225, y=75
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -171810,6 +172037,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=225, y=85
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -171852,6 +172080,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -172500,6 +172729,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=226, y=72
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -172636,6 +172866,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -173306,6 +173537,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=227, y=75
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -173386,6 +173618,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=227, y=87
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -174111,6 +174344,7 @@ BeginPlot
 	x=228, y=78
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -174171,6 +174405,7 @@ BeginPlot
 	x=228, y=86
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -174199,6 +174434,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=228, y=90
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -174852,6 +175088,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=229, y=70
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -174923,6 +175160,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=229, y=80
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -175211,6 +175449,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=229, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -175633,6 +175872,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=230, y=67
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -175708,6 +175948,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=230, y=79
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -175725,6 +175966,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=230, y=82
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -176557,6 +176799,7 @@ BeginPlot
 	x=231, y=87
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -176704,6 +176947,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=231, y=113
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -177259,6 +177503,7 @@ BeginPlot
 	x=232, y=77
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -178114,6 +178359,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=233, y=92
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
 EndPlot
@@ -178821,6 +179067,7 @@ BeginPlot
 	x=234, y=81
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -178874,7 +179121,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=234, y=88
-	BonusType=BONUS_HEMP
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -179042,6 +179289,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=234, y=117
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -179110,6 +179358,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=234, y=128
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -179603,6 +179852,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=235, y=83
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -179628,6 +179878,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=235, y=87
+	BonusType=BONUS_PUMPKIN
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -180340,6 +180591,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=236, y=80
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -181144,6 +181396,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=237, y=87
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -181877,6 +182130,7 @@ BeginPlot
 	x=238, y=84
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -183386,6 +183640,7 @@ BeginPlot
 	x=240, y=82
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -184193,6 +184448,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=241, y=86
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -184249,6 +184505,7 @@ BeginPlot
 	x=241, y=95
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -184925,11 +185182,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=242, y=83
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
 BeginPlot
 	x=242, y=84
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -185204,6 +185463,7 @@ BeginPlot
 	x=242, y=129
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -187196,6 +187456,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=245, y=76
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -187284,6 +187545,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=245, y=89
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -187981,6 +188243,7 @@ BeginPlot
 	x=246, y=78
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -188023,6 +188286,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -188749,6 +189013,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=247, y=78
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -189029,6 +189294,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=247, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -189470,6 +189736,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=248, y=69
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -189570,6 +189837,7 @@ BeginPlot
 	x=248, y=83
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -189790,6 +190058,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=248, y=118
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -189882,6 +190151,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=248, y=133
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -190271,6 +190541,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=249, y=68
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -190293,6 +190564,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=249, y=72
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -191009,6 +191281,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=250, y=61
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -191039,12 +191312,14 @@ BeginPlot
 	x=250, y=66
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
 BeginPlot
 	x=250, y=67
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -191127,6 +191402,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=250, y=80
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -191842,6 +192118,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=251, y=66
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -191890,6 +192167,7 @@ BeginPlot
 	x=251, y=74
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -192601,6 +192879,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=252, y=62
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -192664,6 +192943,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=252, y=72
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -192919,6 +193199,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=252, y=112
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -192943,6 +193224,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=252, y=116
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -193385,6 +193667,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=253, y=58
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -193470,6 +193753,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=253, y=73
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_DARK_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
@@ -193568,6 +193852,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=253, y=88
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -194326,6 +194611,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=254, y=80
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -194993,6 +195279,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=55
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_MUDDY
@@ -195106,6 +195393,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=74
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -195142,6 +195430,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=79
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -195215,6 +195504,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -195231,6 +195521,7 @@ BeginPlot
 	x=255, y=92
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -195894,6 +196185,7 @@ BeginPlot
 	x=256, y=71
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -195972,6 +196264,7 @@ BeginPlot
 	x=256, y=82
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -196003,6 +196296,7 @@ BeginPlot
 	x=256, y=86
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PUMPKIN
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -196029,6 +196323,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=90
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -196070,6 +196365,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=96
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -196149,6 +196445,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=110
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -196714,6 +197011,7 @@ BeginPlot
 	x=257, y=72
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -196804,6 +197102,7 @@ BeginPlot
 	x=257, y=86
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -197600,6 +197899,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=258, y=87
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -197644,6 +197944,7 @@ BeginPlot
 	x=258, y=93
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -197807,6 +198108,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=258, y=119
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -198383,6 +198685,7 @@ BeginPlot
 	x=259, y=85
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -198922,6 +199225,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=260, y=36
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
@@ -199811,6 +200115,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=53
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -199839,6 +200144,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=58
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -199851,6 +200157,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=60
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -199979,6 +200286,7 @@ BeginPlot
 	x=261, y=84
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -200258,6 +200566,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=127
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -200879,6 +201188,7 @@ BeginPlot
 	x=262, y=98
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -200894,6 +201204,7 @@ BeginPlot
 	x=262, y=100
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -200962,6 +201273,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=262, y=111
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -200993,6 +201305,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=262, y=117
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -201455,6 +201768,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=263, y=59
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -202120,6 +202434,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=264, y=33
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
@@ -202225,6 +202540,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=264, y=52
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -202443,6 +202759,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=264, y=91
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -202470,6 +202787,7 @@ BeginPlot
 	x=264, y=94
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -203043,6 +203361,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=265, y=57
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -203220,6 +203539,7 @@ BeginPlot
 	x=265, y=88
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -203493,6 +203813,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=265, y=131
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -203892,6 +204213,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=266, y=64
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -203993,6 +204315,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=266, y=83
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -204054,6 +204377,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -204827,6 +205151,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=267, y=90
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -204875,6 +205200,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=267, y=97
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -206393,6 +206719,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=269, y=85
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -206443,6 +206770,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=269, y=92
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -207047,6 +207375,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=270, y=59
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -207248,6 +207577,7 @@ BeginPlot
 	x=270, y=93
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_PUMPKIN
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -207851,6 +208181,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=271, y=61
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -208008,6 +208339,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=271, y=90
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -209013,6 +209345,7 @@ BeginPlot
 	x=272, y=123
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -209314,6 +209647,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=273, y=39
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_DARK_ROCK_FORM1, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
@@ -211197,6 +211531,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=275, y=100
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -211935,8 +212270,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=276, y=94
-	FeatureType=FEATURE_SWAMP, FeatureVariety=0
-	TerrainType=TERRAIN_GRASSLAND
+	BonusType=BONUS_RICE
+	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
 BeginPlot
@@ -212740,6 +213075,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=277, y=97
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -213199,6 +213535,7 @@ BeginPlot
 	x=278, y=36
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RUBIES
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
 EndPlot
@@ -213306,6 +213643,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=278, y=56
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -213571,6 +213909,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=278, y=105
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -215048,11 +215387,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=280, y=91
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
 BeginPlot
 	x=280, y=92
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -216063,6 +216404,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=281, y=130
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -216431,6 +216773,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=282, y=58
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -216710,6 +217053,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=282, y=110
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -217042,6 +217386,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=30
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
@@ -217390,6 +217735,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=94
+	BonusType=BONUS_RICE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -217579,6 +217925,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -218213,6 +218560,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=284, y=103
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -218314,7 +218662,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=284, y=119
-	BonusType=BONUS_NATURAL_GAS
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -218746,6 +219094,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=285, y=56
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -219071,6 +219420,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=285, y=116
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -219705,6 +220055,7 @@ BeginPlot
 	x=286, y=94
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -220482,6 +220833,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=287, y=94
+	BonusType=BONUS_RUBIES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -222554,6 +222906,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=290, y=55
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -222770,6 +223123,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=290, y=97
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -223296,6 +223650,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=291, y=55
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -225011,6 +225366,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=293, y=103
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -225050,6 +225406,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=293, y=110
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -225152,6 +225509,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=293, y=129
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -226929,6 +227287,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=296, y=51
+	BonusType=BONUS_RUBBER
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -227330,6 +227689,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=296, y=128
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -230206,6 +230566,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=300, y=125
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -233073,6 +233434,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=304, y=121
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -236742,6 +237104,7 @@ BeginPlot
 	x=309, y=126
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -238155,6 +238518,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=311, y=119
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -238350,6 +238714,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=312, y=16
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -239642,6 +240007,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=313, y=129
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -240531,6 +240897,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=315, y=19
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -243956,6 +244323,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=319, y=127
+	BonusType=BONUS_PRIME_TIMBER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
