@@ -84,12 +84,12 @@ resin: cultures: chechen, lithuanian, tlaxcaltec = done // no production info
 rice: latitude: 0 to +-50, cultures: hemudu, merina, thai = done
 rubber: latitude: 0 to +-20 = done
 rubies: culture: ghurid, libyan = done
-salt: cultures: bangladeshi, israeli, malinese, transoxanian
-sapphires: cultures: bagraini, luba
-sea lion and seal: cultures: dene, fuegian, scotish, south african, vanuatuan
-sheep: latitude: +-20 to +-90, cultures: afghan, albanian, berber, celtic, navajo, new zealander. serbian, sumerian
-shrimp: cultures: estonian, seminole, sundanese, yamato
-silk: cultures: chinese, khwarazmian, sassanian
+salt: cultures: bangladeshi, israeli, malinese, transoxanian = done
+sapphires: cultures: bahraini, luba = done
+sea lion and seal: cultures: dene, fuegian, scotish, south african, vanuatuan = done // animal
+sheep: latitude: +-20 to +-90, cultures: afghan, albanian, berber, celtic, navajo, new zealander. serbian, sumerian = done // animal
+shrimp: cultures: estonian, seminole, sundanese, yamato = done // animal
+silk: cultures: chinese, khwarazmian, sassanian = done
 silver ore: cultures: bactric, bolivian, la platan, malagasy, nama, saffarid, scythian, swiss, timurid, wayuu
 spices: cultures: indian, aymara, bandanese, basque, batek, etruscan, mani, moroccan
 squash: latitude: 0 to +-40 cultures: zenu
@@ -106,7 +106,7 @@ vanilia: latitude: 0 to +-30, cultures: chachapoya, totonac
 walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi
 whale: cultures: icelandic, puelche, puntic, zimbabwean
 wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar
--- random assignment for "//", reduction of all bonuses
+-- reduction of all bonuses, random assignment for "//", mountain resources
 !Extras:
 Brazil Nut: almonds + coffee
 Cashew: almonds + corn
