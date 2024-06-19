@@ -90,22 +90,22 @@ sea lion and seal: cultures: dene, fuegian, scotish, south african, vanuatuan = 
 sheep: latitude: +-20 to +-90, cultures: afghan, albanian, berber, celtic, navajo, new zealander. serbian, sumerian = done // animal
 shrimp: cultures: estonian, seminole, sundanese, yamato = done // animal
 silk: cultures: chinese, khwarazmian, sassanian = done
-silver ore: cultures: bactric, bolivian, la platan, malagasy, nama, saffarid, scythian, swiss, timurid, wayuu
-spices: cultures: indian, aymara, bandanese, basque, batek, etruscan, mani, moroccan
-squash: latitude: 0 to +-40 cultures: zenu
-stone: cultures: egyptian, guanches, micronesian, poverty point, rapa nui, sarmatian, tamil, toltec
-sugar: latitude: 0 to +-36, cultures: brazilian, cham, haitian, javanese
-sulphur: cultures: ashanti, bengali, iranian, ottoman, pima
-tea: latitude: =-20 to +-60, cultures: alacalufe, ceylonese, hongkonger, lunda, seljuk
+silver ore: cultures: bactric, bolivian, la platan, malagasy, nama, saffarid, scythian, swiss, timurid, wayuu = done
+spices: cultures: indian, aymara, bandanese, basque, batek, etruscan, mani, moroccan = done
+squash: latitude: 0 to +-40 cultures: zenu = done
+stone: cultures: egyptian, guanches, micronesian, poverty point, rapa nui, sarmatian, tamil, toltec = done // no production info / common
+sugar: latitude: 0 to +-36, cultures: brazilian, cham, haitian, javanese = done
+sulphur: cultures: ashanti, bengali, iranian, ottoman, pima = done
+tea: latitude: +-20 to +-60, cultures: alacalufe, ceylonese, hongkonger, lunda, seljuk = done
 tin ore: cultures: chola, parthian, tarascan
 titanium ore:
 tobacco: latitude: +-15 to +-60, cultures: chilean, cuban, lule, odawa, rhodesian, waray
 turquoise: latitude: 0 to +-40, cultures: anasazi, kuwaiti, massagetae, moche, vandal
 uranium: 
 vanilia: latitude: 0 to +-30, cultures: chachapoya, totonac
-walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi
-whale: cultures: icelandic, puelche, puntic, zimbabwean
-wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar
+walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi // animal
+whale: cultures: icelandic, puelche, puntic, zimbabwean // animal
+wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar // common
 -- reduction of all bonuses, random assignment for "//", mountain resources
 !Extras:
 Brazil Nut: almonds + coffee
