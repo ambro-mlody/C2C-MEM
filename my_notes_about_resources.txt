@@ -97,15 +97,15 @@ stone: cultures: egyptian, guanches, micronesian, poverty point, rapa nui, sarma
 sugar: latitude: 0 to +-36, cultures: brazilian, cham, haitian, javanese = done
 sulphur: cultures: ashanti, bengali, iranian, ottoman, pima = done
 tea: latitude: +-20 to +-60, cultures: alacalufe, ceylonese, hongkonger, lunda, seljuk = done
-tin ore: cultures: chola, parthian, tarascan
-titanium ore:
-tobacco: latitude: +-15 to +-60, cultures: chilean, cuban, lule, odawa, rhodesian, waray
-turquoise: latitude: 0 to +-40, cultures: anasazi, kuwaiti, massagetae, moche, vandal
-uranium: 
-vanilia: latitude: 0 to +-30, cultures: chachapoya, totonac
-walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi // animal
-whale: cultures: icelandic, puelche, puntic, zimbabwean // animal
-wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar // common
+tin ore: cultures: chola, parthian, tarascan = done
+titanium ore: = done
+tobacco: latitude: +-15 to +-60, cultures: chilean, cuban, lule, odawa, rhodesian, waray = done
+turquoise: latitude: 0 to +-40, cultures: anasazi, kuwaiti, massagetae, moche, vandal = done
+uranium: = done
+vanilia: latitude: 0 to +-30, cultures: chachapoya, totonac = done
+walrus: latitude: +-65 to +-90, cultures: finnish, inuit, querendi = done // animal
+whale: cultures: icelandic, puelche, puntic, zimbabwean = done // animal
+wheat: latitude +-10 to +-50, cultures: babylonian, benin, italian, mapuche, sennar = done // common
 -- reduction of all bonuses, random assignment for "//", mountain resources
 !Extras:
 Brazil Nut: almonds + coffee

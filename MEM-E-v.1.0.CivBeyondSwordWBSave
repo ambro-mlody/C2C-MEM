@@ -3563,6 +3563,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4, y=126
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -10700,6 +10701,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14, y=128
+	BonusType=BONUS_WALRUS
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -13592,6 +13594,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18, y=129
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -27289,6 +27292,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=37, y=120
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
 EndPlot
@@ -29510,6 +29514,7 @@ BeginPlot
 	x=40, y=124
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
 EndPlot
@@ -30190,6 +30195,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=41, y=116
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -30935,6 +30941,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42, y=118
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
@@ -33157,6 +33164,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45, y=121
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
 EndPlot
@@ -34650,6 +34658,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47, y=121
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -36068,6 +36077,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=49, y=105
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -36931,6 +36941,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=50, y=123
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -39039,6 +39050,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=53, y=100
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -39089,6 +39101,7 @@ BeginPlot
 	x=53, y=109
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -40612,6 +40625,7 @@ BeginPlot
 	x=55, y=112
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_WHEAT
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -41996,6 +42010,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=57, y=95
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DESERT
 	PlotType=0
 EndPlot
@@ -42783,6 +42798,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=58, y=100
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -45018,6 +45034,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=61, y=97
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -46719,6 +46736,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=63, y=127
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -47977,6 +47995,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=65, y=84
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -48142,6 +48161,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=65, y=110
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -50244,6 +50264,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=68, y=79
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -51022,6 +51043,7 @@ BeginPlot
 	x=69, y=80
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -51231,6 +51253,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=69, y=112
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -53356,6 +53379,7 @@ BeginPlot
 	x=72, y=78
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_VANILLA
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -54261,6 +54285,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=73, y=99
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -54364,6 +54389,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=73, y=116
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -55067,6 +55093,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=74, y=103
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -55886,6 +55913,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=75, y=111
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -56531,6 +56559,7 @@ BeginPlot
 	x=76, y=92
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -57324,6 +57353,7 @@ BeginPlot
 	x=77, y=93
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -58218,6 +58248,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=78, y=107
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -58864,6 +58895,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=79, y=89
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -59003,6 +59035,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=79, y=108
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -59747,6 +59780,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=80, y=103
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -59880,6 +59914,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=80, y=126
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -59910,6 +59945,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=80, y=132
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -60527,6 +60563,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81, y=106
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -60701,6 +60738,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81, y=138
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -61186,6 +61224,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=92
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -61386,6 +61425,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=126
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -63436,6 +63476,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=85, y=90
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -63532,6 +63573,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=85, y=103
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -65085,6 +65127,7 @@ BeginPlot
 	x=87, y=108
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -65210,6 +65253,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=87, y=130
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -65247,6 +65291,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=87, y=137
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_PERMAFROST
 	PlotType=2
 EndPlot
@@ -65714,6 +65759,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=88, y=88
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -66292,6 +66338,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=89, y=54
+	BonusType=BONUS_VANILLA
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -66587,6 +66634,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=89, y=106
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_CRATER, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -67046,6 +67094,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=90, y=55
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_MUDDY
 	PlotType=0
 EndPlot
@@ -67058,6 +67107,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=90, y=57
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -68100,6 +68150,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=91, y=106
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -68722,6 +68773,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92, y=80
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -69007,6 +69059,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92, y=127
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -69409,6 +69462,7 @@ BeginPlot
 	x=93, y=59
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -70660,6 +70714,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94, y=138
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -71254,6 +71309,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=95, y=104
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -72173,6 +72229,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=96, y=120
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -72354,6 +72411,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=97, y=13
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -73066,6 +73124,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=97, y=131
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -73250,6 +73309,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=98, y=25
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -73867,6 +73927,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=98, y=128
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -76388,6 +76449,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=101, y=136
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -76540,6 +76602,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=102, y=23
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -76703,6 +76766,7 @@ BeginPlot
 	x=102, y=49
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -77497,6 +77561,7 @@ BeginPlot
 	x=103, y=42
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -77619,6 +77684,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=103, y=59
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -77995,6 +78061,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=103, y=126
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -78048,6 +78115,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=103, y=136
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -78204,6 +78272,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=104, y=24
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -78227,6 +78296,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=104, y=28
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -78295,7 +78365,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=104, y=39
-	BonusType=BONUS_SPICES
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -78983,6 +79053,7 @@ BeginPlot
 	x=105, y=19
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WALRUS
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -79023,6 +79094,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105, y=25
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -79058,6 +79130,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105, y=31
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -79838,6 +79911,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=106, y=25
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -80574,6 +80648,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=107, y=16
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -81408,6 +81483,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=108, y=21
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -81684,6 +81760,7 @@ BeginPlot
 	x=108, y=64
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -82247,6 +82324,7 @@ BeginPlot
 	x=109, y=28
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -82977,6 +83055,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=110, y=18
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -83673,6 +83752,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=110, y=136
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -84611,6 +84691,7 @@ BeginPlot
 	x=112, y=23
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -87587,6 +87668,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=115, y=132
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -90648,6 +90730,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=119, y=128
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -90955,6 +91038,7 @@ BeginPlot
 	x=120, y=46
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
 EndPlot
@@ -91770,6 +91854,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=121, y=55
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -93940,7 +94025,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=124, y=45
-	BonusType=BONUS_COFFEE
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -95149,6 +95234,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=125, y=131
+	BonusType=BONUS_WALRUS
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
@@ -95402,6 +95488,7 @@ BeginPlot
 	x=126, y=40
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -95472,6 +95559,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=126, y=51
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -97353,6 +97441,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=128, y=128
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN_POLAR
 	PlotType=3
 EndPlot
@@ -98037,6 +98126,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=129, y=120
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -98119,6 +98209,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=129, y=135
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -98866,6 +98957,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=130, y=139
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -104606,6 +104698,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=138, y=124
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -109719,6 +109812,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=145, y=100
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -109761,6 +109855,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=145, y=108
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -112792,6 +112887,7 @@ BeginPlot
 	x=149, y=107
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -114114,6 +114210,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=151, y=75
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
 EndPlot
@@ -117101,6 +117198,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=155, y=72
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -117248,6 +117346,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=155, y=99
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -119339,6 +119438,7 @@ BeginPlot
 	x=158, y=66
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -123109,6 +123209,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=43
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
@@ -123161,6 +123262,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=52
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -123392,6 +123494,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=91
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
@@ -123455,6 +123558,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=102
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -123583,7 +123687,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=124
-	BonusType=BONUS_PRIME_TIMBER
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -125047,6 +125151,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=165, y=100
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -125468,6 +125573,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=166, y=36
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -125495,6 +125601,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=166, y=41
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -126023,6 +126130,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=166, y=127
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
 EndPlot
@@ -126349,6 +126457,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=167, y=47
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -127138,6 +127247,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=168, y=40
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -127554,6 +127664,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=168, y=108
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -128706,6 +128817,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=30
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -128741,6 +128853,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=36
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
 EndPlot
@@ -128756,6 +128869,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=39
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -129296,6 +129410,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=170, y=129
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
@@ -130396,6 +130511,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=172, y=42
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -131727,6 +131843,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=173, y=123
+	BonusType=BONUS_WALRUS
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -132799,6 +132916,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=175, y=31
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -134201,6 +134319,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=176, y=127
+	BonusType=BONUS_WALRUS
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -134822,6 +134941,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=177, y=95
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -135711,6 +135831,7 @@ BeginPlot
 	x=178, y=107
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -136416,6 +136537,7 @@ BeginPlot
 	x=179, y=90
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -136906,6 +137028,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=180, y=37
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -137238,6 +137361,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -137362,6 +137486,7 @@ BeginPlot
 	x=180, y=111
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -137705,6 +137830,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=33
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_LUSH
@@ -138160,7 +138286,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=107
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -138179,6 +138305,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=110
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -139398,6 +139525,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=38
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -139488,6 +139616,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=53
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -139877,6 +140006,7 @@ BeginPlot
 	x=183, y=116
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -140522,6 +140652,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=184, y=88
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_ROCK_ARCH2, FeatureVariety=0
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
@@ -140652,6 +140783,7 @@ BeginPlot
 	x=184, y=109
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -141002,6 +141134,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=185, y=32
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -142088,6 +142221,7 @@ BeginPlot
 	x=186, y=75
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -142287,6 +142421,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=186, y=109
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -142646,6 +142781,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=187, y=35
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -143535,6 +143671,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=188, y=51
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -144677,6 +144814,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=189, y=107
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -145912,6 +146050,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=191, y=41
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN_TROPICAL
 	PlotType=3
 EndPlot
@@ -146366,6 +146505,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=191, y=118
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -146743,6 +146883,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=192, y=50
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_OCEAN_TROPICAL
 	PlotType=3
 EndPlot
@@ -147109,6 +147250,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=192, y=111
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -147788,6 +147930,7 @@ BeginPlot
 	x=193, y=94
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -149345,6 +149488,7 @@ BeginPlot
 	x=195, y=90
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -149471,6 +149615,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=195, y=109
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -149843,6 +149988,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=196, y=37
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -150158,6 +150304,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=196, y=93
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
 EndPlot
@@ -150891,6 +151038,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=197, y=87
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -151426,6 +151574,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=198, y=40
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -151705,6 +151854,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -151816,6 +151966,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=198, y=108
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -152624,6 +152775,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=199, y=116
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
 EndPlot
@@ -154885,7 +155037,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=202, y=112
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -155623,6 +155775,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=203, y=109
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -155684,6 +155837,7 @@ BeginPlot
 	x=203, y=118
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -156369,6 +156523,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=204, y=106
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -157050,6 +157205,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=205, y=91
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -157085,6 +157241,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=205, y=97
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -157939,6 +158096,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=206, y=112
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -158603,6 +158761,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=207, y=96
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -158680,6 +158839,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=207, y=109
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -159339,6 +159499,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=208, y=90
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -160879,6 +161040,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=210, y=99
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_DARK_ROCK_FORM2, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
@@ -161581,6 +161743,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=211, y=92
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -161592,6 +161755,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=211, y=94
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
 EndPlot
@@ -161605,6 +161769,7 @@ BeginPlot
 	x=211, y=96
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -161716,6 +161881,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=211, y=116
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
@@ -162312,6 +162478,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=212, y=88
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DUNES
 	PlotType=1
 EndPlot
@@ -162416,6 +162583,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=212, y=106
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -163166,6 +163334,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=213, y=102
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -163313,6 +163482,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=213, y=126
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -165355,6 +165525,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=216, y=89
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -165405,6 +165576,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=216, y=98
+	BonusType=BONUS_TURQUOISE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
@@ -165463,6 +165635,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=216, y=108
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -166154,6 +166327,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=217, y=96
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
 EndPlot
@@ -166877,6 +167051,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=218, y=91
+	BonusType=BONUS_TURQUOISE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -167702,6 +167877,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=100
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -167725,6 +167901,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=104
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
 EndPlot
@@ -167841,6 +168018,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=123
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -168517,6 +168695,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=220, y=109
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
@@ -169188,6 +169367,7 @@ BeginPlot
 	x=221, y=92
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -169408,6 +169588,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=221, y=128
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -169889,6 +170070,7 @@ BeginPlot
 	x=222, y=81
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -170700,6 +170882,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=223, y=84
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -171541,6 +171724,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=224, y=89
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -172347,6 +172531,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=225, y=92
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -173186,7 +173371,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=226, y=102
-	BonusType=BONUS_OLIVES
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -173793,6 +173978,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=227, y=74
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -173905,6 +174091,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -176226,6 +176413,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=230, y=80
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -176285,6 +176473,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -178610,6 +178799,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=233, y=88
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -179337,6 +179527,7 @@ BeginPlot
 	x=234, y=80
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -179463,6 +179654,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=234, y=99
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -180399,6 +180591,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=235, y=128
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -185454,6 +185647,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=242, y=81
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -185494,6 +185688,7 @@ BeginPlot
 	x=242, y=87
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -185534,6 +185729,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=242, y=94
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -185695,6 +185891,7 @@ BeginPlot
 	x=242, y=121
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_URANIUM
 	FeatureType=FEATURE_TAR_PIT, FeatureVariety=0
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
@@ -188651,6 +188848,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=246, y=97
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -189436,6 +189634,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=247, y=99
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -190186,6 +190385,7 @@ BeginPlot
 	x=248, y=90
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
 EndPlot
@@ -190954,6 +191154,7 @@ BeginPlot
 	x=249, y=88
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_CITY_RUINS, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -191647,6 +191848,7 @@ BeginPlot
 	x=250, y=73
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -193258,6 +193460,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=252, y=75
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_BAMBOO, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
@@ -193363,6 +193566,7 @@ BeginPlot
 	x=252, y=90
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
@@ -193615,6 +193819,7 @@ BeginPlot
 	x=252, y=131
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -193976,6 +194181,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=253, y=60
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -195441,6 +195647,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=29
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -195817,7 +196024,7 @@ BeginPlot
 	x=255, y=91
 	RiverNSDirection=2
 	isWOfRiver
-	BonusType=BONUS_TEA
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -196423,6 +196630,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=59
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -196623,6 +196831,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=89
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -196708,6 +196917,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=102
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -197066,6 +197276,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=257, y=26
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -197401,6 +197612,7 @@ BeginPlot
 	x=257, y=85
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -197478,6 +197690,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=257, y=96
+	BonusType=BONUS_TIN_ORE
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -199817,6 +200030,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=260, y=86
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -200481,6 +200695,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=61
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
 EndPlot
@@ -200656,6 +200871,7 @@ BeginPlot
 	x=261, y=91
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -200687,6 +200903,7 @@ BeginPlot
 	x=261, y=95
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -200746,6 +200963,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=261, y=104
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -201399,6 +201617,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=262, y=83
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
@@ -201601,6 +201820,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=262, y=112
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -201752,6 +201972,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=262, y=135
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_PERMAFROST
 	PlotType=2
 EndPlot
@@ -202304,6 +202525,7 @@ BeginPlot
 	x=263, y=93
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -203585,6 +203807,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=265, y=38
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -203879,6 +204102,7 @@ BeginPlot
 	x=265, y=89
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -203975,7 +204199,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=265, y=103
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -204473,6 +204697,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=266, y=52
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -204695,6 +204920,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=266, y=90
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -205350,6 +205576,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=267, y=65
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -205458,6 +205685,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=267, y=85
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_BAMBOO, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
@@ -206288,6 +206516,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=268, y=90
+	BonusType=BONUS_VANILLA
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -206342,6 +206571,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=268, y=98
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -206894,6 +207124,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=269, y=55
+	BonusType=BONUS_TIN_ORE
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -207567,6 +207798,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=270, y=32
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -207603,6 +207835,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=270, y=39
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -207888,6 +208121,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=270, y=89
+	BonusType=BONUS_TOBACCO
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -208040,6 +208274,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=270, y=112
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -208619,6 +208854,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=271, y=78
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -208920,6 +209156,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=271, y=124
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -209284,6 +209521,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=272, y=52
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -209364,6 +209602,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=272, y=67
+	BonusType=BONUS_TOBACCO
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -209958,6 +210197,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=273, y=32
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DUNES
 	PlotType=2
 EndPlot
@@ -211493,6 +211733,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=275, y=26
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -211510,6 +211751,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=275, y=29
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -211937,6 +212179,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=275, y=108
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -212701,6 +212944,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=276, y=105
+	BonusType=BONUS_WHEAT
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -213119,6 +213363,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=277, y=38
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -217019,6 +217264,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=282, y=37
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
 EndPlot
@@ -218176,6 +218422,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=107
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -219306,6 +219553,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=285, y=28
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -220061,6 +220309,7 @@ BeginPlot
 	x=286, y=25
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_TITANIUM_ORE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -220113,6 +220362,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=286, y=34
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -220229,6 +220479,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=286, y=56
+	BonusType=BONUS_VANILLA
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -220548,7 +220799,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=286, y=116
-	BonusType=BONUS_POTATOES
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_TAIGA
 	PlotType=1
 EndPlot
@@ -220830,6 +221081,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=287, y=24
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -222423,6 +222675,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=289, y=35
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -222539,6 +222792,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=289, y=56
+	BonusType=BONUS_VANILLA
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -224633,6 +224887,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=292, y=32
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -225161,6 +225416,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=292, y=131
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -227374,6 +227630,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=295, y=135
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
 EndPlot
@@ -229519,6 +229776,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=298, y=129
+	BonusType=BONUS_TIN_ORE
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -235318,6 +235576,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=306, y=130
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -238373,6 +238632,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=311, y=17
+	BonusType=BONUS_TITANIUM_ORE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -242545,6 +242805,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=316, y=128
+	BonusType=BONUS_WALRUS
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
