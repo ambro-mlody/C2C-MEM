@@ -5,12 +5,10 @@ BeginMeta
 EndMeta
 BeginGame
 	Era=C2C_ERA_PREHISTORIC
-	Speed=GAMESPEED_ETERNITY
 	Calendar=CALENDAR_DEFAULT
 	Option=GAMEOPTION_BARBARIAN_CIV
 	Option=GAMEOPTION_BARBARIAN_NEANDERTHAL_CITIES
 	Option=GAMEOPTION_LEADER_DEVELOPING
-	Option=GAMEOPTION_LEADER_START_NO_POSITIVE_TRAITS
 	Option=GAMEOPTION_LEADER_COMPLEX_TRAITS
 	Option=GAMEOPTION_ENABLE_UNITED_NATIONS
 	Option=GAMEOPTION_NO_TECH_BROKERING
@@ -59,10 +57,166 @@ BeginMap
 	world size=WORLDSIZE_GIGANTIC
 	climate=CLIMATE_TEMPERATE
 	sealevel=SEALEVEL_MEDIUM
-	Randomize Resources=0
 EndMap
 BeginPlayer
-	StartingX=90, StartingY=45
+	CivType=CIVILIZATION_AMERICA
+	LeaderType=LEADER_LINCOLN
+	StartingX=92, StartingY=98
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ARABIA
+	LeaderType=LEADER_SALADIN
+	StartingX=189, StartingY=82
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_AZTEC
+	LeaderType=LEADER_MONTEZUMA
+	StartingX=71, StartingY=78
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_CARTHAGE
+	LeaderType=LEADER_HANNIBAL
+	StartingX=159, StartingY=95
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_CHINA
+	LeaderType=LEADER_QIN_SHI_HUANG
+	StartingX=268, StartingY=99
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_EGYPT
+	LeaderType=LEADER_CLEOPATRA
+	StartingX=183, StartingY=82
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ENGLAND
+	LeaderType=LEADER_VICTORIA
+	StartingX=149, StartingY=111
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ETHIOPIA
+	LeaderType=LEADER_MENELIK
+	StartingX=189, StartingY=73
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_FRANCE
+	LeaderType=LEADER_NAPOLEON
+	StartingX=151, StartingY=107
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_GERMANY
+	LeaderType=LEADER_BISMARCK
+	StartingX=163, StartingY=111
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_GREECE
+	LeaderType=LEADER_ALEXANDER
+	StartingX=174, StartingY=99
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_INCA
+	LeaderType=LEADER_PACHACUTI
+	StartingX=97, StartingY=47
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_INDIA
+	LeaderType=LEADER_GANDHI
+	StartingX=226, StartingY=89
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_JAPAN
+	LeaderType=LEADER_TOKUGAWA
+	StartingX=285, StartingY=94
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_KOREA
+	LeaderType=LEADER_SEJONG
+	StartingX=276, StartingY=97
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_MALI
+	LeaderType=LEADER_MANSA_MUSA
+	StartingX=141, StartingY=72
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_MAYA
+	LeaderType=LEADER_PACAL
+	StartingX=80, StartingY=77
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_MONGOL
+	LeaderType=LEADER_GENGHIS_KHAN
+	StartingX=255, StartingY=106
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_OTTOMAN
+	LeaderType=LEADER_SULEIMAN
+	StartingX=179, StartingY=100
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_PERSIA
+	LeaderType=LEADER_CYRUS
+	StartingX=203, StartingY=89
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ROME
+	LeaderType=LEADER_JULIUS_CAESAR
+	StartingX=162, StartingY=101
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_RUSSIA
+	LeaderType=LEADER_CATHERINE
+	StartingX=186, StartingY=114
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_SPAIN
+	LeaderType=LEADER_ISABELLA
+	StartingX=145, StartingY=99
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_SCANDINAVIA
+	LeaderType=LEADER_RAGNAR
+	StartingX=167, StartingY=120
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ZULU
+	LeaderType=LEADER_SHAKA
+	StartingX=178, StartingY=39
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_AUSTRALIA
+	LeaderType=LEADER_CURTIN
+	StartingX=288, StartingY=25
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ABORIGINES
+	LeaderType=LEADER_YAGAN
+	StartingX=269, StartingY=36
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_BRAZIL
+	LeaderType=LEADER_PEDRO_II
+	StartingX=123, StartingY=46
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_ISRAEL
+	LeaderType=LEADER_DAVID
+	StartingX=185, StartingY=92
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_SUMERIA
+	LeaderType=LEADER_GILGAMESH
+	StartingX=196, StartingY=90
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_SIAM
+	LeaderType=LEADER_MONGKUT
+	StartingX=251, StartingY=73
+EndPlayer
+BeginPlayer
+	CivType=CIVILIZATION_IROQUOIS
+	LeaderType=LEADER_DEGANAWIDA
+	StartingX=95, StartingY=103
 EndPlayer
 BeginPlot
 	x=0, y=0
