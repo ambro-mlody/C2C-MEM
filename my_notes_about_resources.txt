@@ -174,18 +174,18 @@ sea turtle egg: clam + sea lion and seal = ???
 squid: clam + pearls = ???
 graphite: coal + stone = done
 shale plant: coal + stone = done???
-jet: coal + obsidian
-mascagnite: coal + sulphur
-quetzal: cocoa + parrots
-scorpion gatherer: cocoa + silk
-birds-of-paradise: coconut + parrots
-cassava: coconut + potatoes
-longan: coconut + mango
-blueberry: coffe + grapes
-giant cockroach gatherer: coffe + silk
-macaw: coffee + parrots
-turnip: coffee + potatoes
-Po ngbe: olmec + copper | iron
+jet: coal + obsidian = done
+mascagnite: coal + sulphur = no info???
+quetzal: cocoa + parrots = done
+scorpion gatherer: cocoa + silk = done
+birds-of-paradise: coconut + parrots = done
+cassava: coconut + potatoes = done
+longan: coconut + mango = done
+blueberry: coffe + grapes = done
+giant cockroach gatherer: coffe + silk = ???
+macaw: coffee + parrots = no info
+turnip: coffee + potatoes = no info???
+Po ngbe: olmec + copper | iron = done
 zinc: copper + silver
 artichoke: corn + olives
 avocado: corn + lemons
