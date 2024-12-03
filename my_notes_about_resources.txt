@@ -186,23 +186,23 @@ giant cockroach gatherer: coffe + silk = ???
 macaw: coffee + parrots = no info
 turnip: coffee + potatoes = no info???
 Po ngbe: olmec + copper | iron = done
-zinc: copper + silver
-artichoke: corn + olives
-avocado: corn + lemons
-bell pepper: corn + potatoes
-raccoon: corn + beavers
-cherimoya: corn + papaya
-chili: corn + spices
-corn smut: corn + mushrooms
-eggplant: corn + rice
-hamster breeder: corn + guinea pigs
-jumiles gatherer: corn + silk
-papaya: corn + mango
-quinoa: corn + wheat
-trap(racoon): corn + beavers
-sunflower: corn + flax
-turkey: corn + poultry
-zucchini: corn + squash
+zinc: copper + silver = done
+artichoke: corn + olives = done
+avocado: corn + lemons = done
+bell pepper: corn + potatoes = done
+raccoon: corn + beavers = done
+trap(racoon): corn + beavers = done too
+cherimoya: corn + papaya = done
+chili: corn + spices = done
+corn smut: corn + mushrooms = done
+eggplant: corn + rice = done
+hamster breeder: corn + guinea pigs = done
+jumiles gatherer: corn + silk = done
+papaya: corn + mango ???? it's literaly in the game lol
+quinoa: corn + wheat = done
+sunflower: corn + flax = done
+turkey: corn + poultry = done
+zucchini: corn + squash = done
 cauliflower: cotton + potatoes
 cauliflower mushroom: cotton + mushrooms
 daisy: cotton + flax
