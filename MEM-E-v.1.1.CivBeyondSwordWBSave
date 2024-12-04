@@ -41897,6 +41897,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56, y=123
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -51754,6 +51755,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=69, y=100
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -71293,7 +71295,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94, y=98
-	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
+	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -113429,7 +113431,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=148, y=106
-	BonusType=BONUS_GRAPES
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -117092,7 +117094,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=153, y=84
-	BonusType=BONUS_FINE_CLAY
 	TerrainType=TERRAIN_DUNES
 	PlotType=2
 EndPlot
@@ -120326,6 +120327,7 @@ BeginPlot
 	x=157, y=113
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_COTTON
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -121084,6 +121086,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=158, y=112
+	BonusType=BONUS_FLAX
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -124798,6 +124801,7 @@ BeginPlot
 	x=163, y=70
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -128826,7 +128830,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=168, y=57
-	BonusType=BONUS_MARBLE
+	BonusType=BONUS_HORSE
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -132836,6 +132840,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=173, y=35
+	BonusType=BONUS_ELEPHANTS
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
@@ -132906,6 +132911,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=173, y=46
+	BonusType=BONUS_DEER
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -133331,6 +133337,7 @@ BeginPlot
 	x=173, y=113
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -133687,6 +133694,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=174, y=36
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -138763,6 +138771,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=180, y=54
+	BonusType=BONUS_ELEPHANTS
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -139599,6 +139608,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=181, y=54
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -140297,6 +140307,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=182, y=33
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -141326,7 +141337,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=63
-	BonusType=BONUS_COW
+	BonusType=BONUS_ELEPHANTS
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -141602,6 +141613,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=107
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -147896,6 +147908,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=191, y=61
+	BonusType=BONUS_DEER
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -150466,6 +150479,7 @@ BeginPlot
 	x=194, y=91
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -155308,7 +155322,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=200, y=112
-	BonusType=BONUS_HORSE
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -166140,6 +166154,7 @@ BeginPlot
 	x=214, y=129
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_CRATER, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -169162,6 +169177,7 @@ BeginPlot
 	x=218, y=125
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -172052,6 +172068,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -176019,6 +176036,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=227, y=84
+	BonusType=BONUS_POTATOES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -176985,7 +177003,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=228, y=110
-	BonusType=BONUS_HORSE
+	BonusType=BONUS_DEER
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
@@ -177607,6 +177625,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=229, y=81
+	BonusType=BONUS_DATES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
@@ -177615,6 +177634,7 @@ BeginPlot
 	x=229, y=82
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
@@ -179298,6 +179318,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=231, y=92
+	BonusType=BONUS_COW
 	TerrainType=TERRAIN_PERMAFROST
 	PlotType=1
 EndPlot
@@ -182588,6 +182609,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=235, y=122
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -184679,6 +184701,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=238, y=87
+	BonusType=BONUS_COW
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -184854,6 +184877,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=238, y=117
+	BonusType=BONUS_COW
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -199316,6 +199340,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=127
+	BonusType=BONUS_COW
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -201611,6 +201636,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=259, y=101
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_PLAINS
@@ -216197,6 +216223,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=277, y=95
+	BonusType=BONUS_MUSHROOMS
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -217009,6 +217036,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=278, y=97
+	BonusType=BONUS_COTTON
 	FeatureType=FEATURE_VERY_TALL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -231764,6 +231792,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=297, y=125
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1

@@ -203,20 +203,20 @@ quinoa: corn + wheat = done
 sunflower: corn + flax = done
 turkey: corn + poultry = done
 zucchini: corn + squash = done
-cauliflower: cotton + potatoes
-cauliflower mushroom: cotton + mushrooms
-daisy: cotton + flax
-weaving spider gatherer: cotton + silk
-oxen farm: cow
-yak farm: cow + peak
-jujube: dates + mango
-palm weeveil gatherer: dates + silk
-antelope (trap/bp): deer + horse
-caribu (trap/bp): deer + taiga/tundra/ice + latitude < 40
-giraffe (trap/bp): deer + elephants
-moose(trap/bp): deer
-fly agaric gatherer: deer + mushrooms
-quartz: diamond + stone
+cauliflower: cotton + potatoes = done
+cauliflower mushroom: cotton + mushrooms = done
+daisy: cotton + flax = done
+weaving spider gatherer: cotton + silk = done
+oxen farm: cow = done i guess
+yak farm: cow + peak = done i guess
+jujube: dates + mango = idk
+palm weeveil gatherer: dates + silk = idk
+antelope (trap/bp): deer + horse = yea
+caribu (trap/bp): deer + taiga/tundra/ice + latitude < 40 = done
+giraffe (trap/bp): deer + elephants = done
+moose(trap/bp): deer = done
+fly agaric gatherer: deer + mushrooms = done
+quartz: diamond + stone = ???
 ostrich (trap/bp): elephants + poultry
 rhino (trap/bp): elephants + pigs
 zebra (trap/bp): elephants + horse
