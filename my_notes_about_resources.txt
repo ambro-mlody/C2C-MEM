@@ -262,23 +262,22 @@ smilodon fossil; fb + wheat = done
 triceratops fossil: fb + cow = done
 trilobite fossil: fb + crab = idk
 velocilaptor fossil: fb + horse = done
-bearberry: grapes + tea
-belladona: grapes
-blackberry: grapes + tobacco
-blueberry: grapes + coffee
-Cranaberry: grapes + rice
-Elderberry: grapes + hemp
-Falconer: grapes + poultry
-goosberry: grapes + olives
-grapefruit: grapes + lemons
-lyches: grapes + mango
-peppermint: grapes + spices
-portobello mushroom: grapes + mushrooms
-raspberry: grapes + sugar
-vineyard: grapes
-mouse breeder: guinea pigs + wheat
-rat breeder: guinea pigs + rice
-cola: hemp + prime timber
+bearberry: grapes + tea = done
+belladona: grapes = ok
+blackberry: grapes + tobacco = done
+Cranaberry: grapes + rice = no info
+Elderberry: grapes + hemp = no info
+Falconer: grapes + poultry = idk
+goosberry: grapes + olives = done
+grapefruit: grapes + lemons = done
+lyches: grapes + mango = done
+peppermint: grapes + spices = done
+portobello mushroom: grapes + mushrooms = idk
+raspberry: grapes + sugar = done
+vineyard: grapes = ok
+mouse breeder: guinea pigs + wheat = k
+rat breeder: guinea pigs + rice = k
+cola: hemp + prime timber = done
 cannabis: hemp
 spinach: hemp + potatoes
 marsh Mallow: hemp + sugar
@@ -310,7 +309,7 @@ chanterelle gatherer: lemons + mushrooms
 kumquat: lemons + mango
 lime: lemons + spices
 onion: lemons + potatoes
-radish+ lemon + wheat
+radish: lemon + wheat
 alpaca: llama
 rhe: llama + poultry
 megatherium: llama + mammoth
