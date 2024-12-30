@@ -217,51 +217,51 @@ giraffe (trap/bp): deer + elephants = done
 moose(trap/bp): deer = done
 fly agaric gatherer: deer + mushrooms = done
 quartz: diamond + stone = ???
-ostrich (trap/bp): elephants + poultry
-rhino (trap/bp): elephants + pigs
-zebra (trap/bp): elephants + horse
-dung beetle gatherer: elephants + silk
-ming vase workshop: fine clay
-nok sculpture workshop: fine clay
-red and black ware painter: fine clay
-terra sigillata workshop: fine clay
-potash: fine clay + salt
-anchovy: fish + pearls
-cormorant trainer: fish + poultry
-dragonfly gatherer: fish + silk
-flounder: fish + murex
-sardine: fish + shrimp
-sea bass: fish + sea lion and seal
-shark: fish + whale
-shiitake mushroom: fish + mushrooms
-snapper: fish + lobser
-begonia: flax + sugar
-bluebell+ flax + tobacco
-butterfly gatherer: flax + silk
-carnation: flax + lemons
-coral tooth mushroom: flax + mushroom
-hummingbird: flax + parrots
-iris: flax + potatoes
-lily: flax + rice
-orchid: flax + tea
-pansy: flax + spices
-snapdragon: flax + incense
-tulip: flax + wheat
-violet: flax + hemp
-ammonite fossil: fb + clam
-archaeopteryx fossil: fb + pultry
-dimetrodon fossil: fb + pigs
-ichthyostega fossil: fb + coal
-mamooth fossil: fb + mammoths
-neanderthal fossil: fb + stone
-petrified wood: fb + prime timber
-plesiosaur fossils: fb + whale
-pterodactyl fossil: fb + oil
-shark teeth: fb + fish
-smilodon fossil; fb + wheat
-triceratops fossil: fb + cow
-trilobite fossil: fb + crab
-velocilaptor fossil: fb + horse
+ostrich (trap/bp): elephants + poultry = done
+rhino (trap/bp): elephants + pigs = done
+zebra (trap/bp): elephants + horse = done
+dung beetle gatherer: elephants + silk - i dont care
+ming vase workshop: fine clay = done
+nok sculpture workshop: fine clay = done
+red and black ware painter: fine clay = done
+terra sigillata workshop: fine clay = done
+potash: fine clay + salt = done
+anchovy: fish + pearls = done
+cormorant trainer: fish + poultry = idk
+dragonfly gatherer: fish + silk = done
+flounder: fish + murex = done
+sardine: fish + shrimp = ?
+sea bass: fish + sea lion and seal = ???
+shark: fish + whale = ?
+shiitake mushroom: fish + mushrooms = done
+snapper: fish + lobser = There is just nothing about fishes lol
+begonia: flax + sugar = done
+bluebell+ flax + tobacco = idk
+butterfly gatherer: flax + silk = idk
+carnation: flax + lemons = done
+coral tooth mushroom: flax + mushroom = done
+hummingbird: flax + parrots = idk
+iris: flax + potatoes = idk
+lily: flax + rice = idk
+orchid: flax + tea = i know nothing about flowers
+pansy: flax + spices = idk
+snapdragon: flax + incense = flower
+tulip: flax + wheat = i dont care about flowers anymore
+violet: flax + hemp = whatever
+ammonite fossil: fb + clam = idk
+archaeopteryx fossil: fb + pultry = germany
+dimetrodon fossil: fb + pigs = done
+ichthyostega fossil: fb + coal = green
+mamooth fossil: fb + mammoths = done
+neanderthal fossil: fb + stone = done
+petrified wood: fb + prime timber - idc
+plesiosaur fossils: fb + whale = done
+pterodactyl fossil: fb + oil = done
+shark teeth: fb + fish = don
+smilodon fossil; fb + wheat = done
+triceratops fossil: fb + cow = done
+trilobite fossil: fb + crab = idk
+velocilaptor fossil: fb + horse = done
 bearberry: grapes + tea
 belladona: grapes
 blackberry: grapes + tobacco
