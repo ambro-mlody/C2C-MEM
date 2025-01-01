@@ -278,37 +278,37 @@ vineyard: grapes = ok
 mouse breeder: guinea pigs + wheat = k
 rat breeder: guinea pigs + rice = k
 cola: hemp + prime timber = done
-cannabis: hemp
-spinach: hemp + potatoes
-marsh Mallow: hemp + sugar
-frankincense: incense
-myrrh: incense + tea
-saffron: incense + spices
-scarb beetle: incense + silk
-brazilwood: indigo + prime timber
-cochineal: indigo + prickly pear
-death cap mushroom: indigo
-fustic: indigo + papaya
-junebug gatherer: indigo + silk
-madder: indigo + tea
-amethyst: iron ore + sapphires
-magnesium: iron ore + salt
-magnetite: iron ore + obsidian
-manganese: iron ore + lead ore
-pyrite: iron ore + sulphur
-tungsten: iron ore + tin ore
-jade death mask carver: jade
-liangzhu,olmec,shang jade jade carvers: jade
-emerald: jade + lead ore
-onyx: jade + marble
-emu: kangaroo + poultry
-diprotodon: kangaroo + mammoths
-lithium: lead ore + salt
-cinnabar: lead ore + silver ore
-chanterelle gatherer: lemons + mushrooms
-kumquat: lemons + mango
-lime: lemons + spices
-onion: lemons + potatoes
+cannabis: hemp = done
+spinach: hemp + potatoes = done
+marsh Mallow: hemp + sugar = d
+frankincense: incense = done
+myrrh: incense + tea = dpme
+saffron: incense + spices = done
+scarb beetle: incense + silk = k
+brazilwood: indigo + prime timber = done
+cochineal: indigo + prickly pear = done
+death cap mushroom: indigo = k
+fustic: indigo + papaya = done
+junebug gatherer: indigo + silk = idk
+madder: indigo + tea = k
+amethyst: iron ore + sapphires = done
+magnesium: iron ore + salt = idk
+magnetite: iron ore + obsidian = d
+manganese: iron ore + lead ore = id
+pyrite: iron ore + sulphur = everywhere i guess
+tungsten: iron ore + tin ore = done
+jade death mask carver: jade = done
+liangzhu,olmec,shang jade jade carvers: jade = done
+emerald: jade + lead ore = done
+onyx: jade + marble = done
+emu: kangaroo + poultry = done
+diprotodon: kangaroo + mammoths = im just not gonna put mammoths on australia lol
+lithium: lead ore + salt = done
+cinnabar: lead ore + silver ore = done
+chanterelle gatherer: lemons + mushrooms = c
+kumquat: lemons + mango = done
+lime: lemons + spices = done
+onion: lemons + potatoes = done
 radish: lemon + wheat
 alpaca: llama
 rhe: llama + poultry
