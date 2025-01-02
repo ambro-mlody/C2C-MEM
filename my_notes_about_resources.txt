@@ -309,50 +309,50 @@ chanterelle gatherer: lemons + mushrooms = c
 kumquat: lemons + mango = done
 lime: lemons + spices = done
 onion: lemons + potatoes = done
-radish: lemon + wheat
-alpaca: llama
-rhe: llama + poultry
-megatherium: llama + mammoth
-centipide gatherer: lobster + silk
-prawn: lobster + shrimp
-wooly rhino: mamooth + pigs
-allspices: mango + spices
-jujube: mango + dates
-sapote: mango + papaya
-tarantula gatherer: mango + silk
-toucan: mango + poultry
-cheomseongdae: marble | stone
-The great pyramid: marble | stone
-the great sphinx: marble | stone
-hierapolis sawmill: marble | stone
-the parthenon: marble
-taj mahal: marble
-canteloupe: melons + pumpkin
-calabash: melons + squash
-goliath beetle: melons + silk
-honeydew: melons + sugar
-licorice: melons + spices
-abalone diggers: murex + pearls
-trufle: mushrooms + obsidian
-enokitake: mushrooms + spices
-hedgehog mushroom: mushrooms + bison
-oyster mushrooms: mushrooms + pearls
-straw mushroom: mushroom + rice
-pine mushroom: mushrooms + prime timber
-shaggy parasol mushroom: mushrooms + squash
-shimeji mushroom: mushroom + silk
-white truffle gatherer: mushrooms + pigs
-golden spike: oil | coal
-route 66: oil
-broccoli: olives + potatoes
-goose: olives + poultry
-lettuce: olives + rice
-oat: olives + wheat
-black pepper: olives + spices
-hercules beattle: papaya + silk
-nutmeg + papaya + spices
-assasin bug: parrots + silk
-canary: parrots + wheat
+radish: lemon + wheat = ok
+alpaca: llama = done
+rhe: llama + poultry = no idea what that is
+megatherium: llama + mammoth = done
+centipide gatherer: lobster + silk = idk
+prawn: lobster + shrimp = k
+wooly rhino: mamooth + pigs = done
+allspices: mango + spices = done
+jujube: mango + dates = done
+sapote: mango + papaya = done
+tarantula gatherer: mango + silk = k
+toucan: mango + poultry = done
+cheomseongdae: marble | stone = done
+The great pyramid: marble | stone = done
+the great sphinx: marble | stone = done
+hierapolis sawmill: marble | stone = done
+the parthenon: marble = done
+taj mahal: marble = done
+canteloupe: melons + pumpkin = who cares, I've never heard of it
+calabash: melons + squash = done
+goliath beetle: melons + silk = k
+honeydew: melons + sugar = d
+licorice: melons + spices = k
+abalone diggers: murex + pearls = idk
+trufle: mushrooms + obsidian = d
+enokitake: mushrooms + spices = d
+hedgehog mushroom: mushrooms + bison = k
+oyster mushrooms: mushrooms + pearls = k
+straw mushroom: mushroom + rice = k
+pine mushroom: mushrooms + prime timber = k
+shaggy parasol mushroom: mushrooms + squash = k
+shimeji mushroom: mushroom + silk = idc
+white truffle gatherer: mushrooms + pigs = idc
+golden spike: oil | coal = done
+route 66: oil = done
+broccoli: olives + potatoes = done
+goose: olives + poultry = k
+lettuce: olives + rice = done
+oat: olives + wheat = done
+black pepper: olives + spices = done
+hercules beattle: papaya + silk = done
+nutmeg: papaya + spices = done
+assasin bug: parrots + silk = d
+canary: parrots + wheat = done
 cockatoo: parrots + pistachio
 peacock: parrots + spices
 parrotfish: pearls + whale

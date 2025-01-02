@@ -44863,6 +44863,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=60, y=107
+	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -46305,6 +46306,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=62, y=95
+	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -47898,6 +47900,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64, y=102
+	BonusType=BONUS_OIL
 	FeatureType=FEATURE_TAR_PIT, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
@@ -50294,6 +50297,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=67, y=112
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -56568,6 +56572,7 @@ BeginPlot
 	x=75, y=110
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -62089,6 +62094,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=82, y=109
+	BonusType=BONUS_OLIVES
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -67308,6 +67314,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=89, y=81
+	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -69581,6 +69588,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92, y=68
+	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_BAMBOO, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -69623,6 +69631,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92, y=76
+	BonusType=BONUS_SPICES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -69649,6 +69658,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92, y=81
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -71210,6 +71220,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94, y=69
+	BonusType=BONUS_MANGO
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -72806,6 +72817,7 @@ BeginPlot
 	x=96, y=65
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_MUDDY
@@ -74956,6 +74968,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=99, y=3
+	BonusType=BONUS_LLAMA
 	TerrainType=TERRAIN_BARREN
 	PlotType=0
 EndPlot
@@ -75118,6 +75131,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=99, y=30
+	BonusType=BONUS_LLAMA
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -75801,6 +75815,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=100, y=3
+	BonusType=BONUS_MAMMOTH
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -75923,6 +75938,7 @@ BeginPlot
 	x=100, y=23
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_LLAMA
 	FeatureType=FEATURE_CACTUS, FeatureVariety=0
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_DESERT
@@ -76106,7 +76122,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
-	BonusType=BONUS_DEER
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -77656,6 +77672,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=102, y=34
+	BonusType=BONUS_LLAMA
 	TerrainType=TERRAIN_BARREN
 	PlotType=1
 EndPlot
@@ -79418,6 +79435,7 @@ BeginPlot
 	x=104, y=44
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -79498,6 +79516,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=104, y=56
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -81925,6 +81944,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=107, y=52
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -83610,6 +83630,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=109, y=57
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -85247,6 +85268,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=111, y=56
+	BonusType=BONUS_SILK
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -86838,6 +86860,7 @@ BeginPlot
 	x=113, y=53
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
@@ -90094,6 +90117,7 @@ BeginPlot
 	x=117, y=63
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_MANGO
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -96824,6 +96848,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=126, y=48
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -97587,6 +97612,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=127, y=50
+	BonusType=BONUS_SPICES
 	TerrainType=TERRAIN_BADLAND
 	PlotType=2
 EndPlot
@@ -101505,6 +101531,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=132, y=93
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -102022,6 +102049,7 @@ BeginPlot
 	x=133, y=52
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -102755,6 +102783,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=134, y=53
+	BonusType=BONUS_SPICES
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -104431,6 +104460,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=136, y=90
+	BonusType=BONUS_PARROTS
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -106735,6 +106765,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=139, y=111
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -109005,6 +109036,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=142, y=111
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -111310,6 +111342,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=145, y=113
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -112102,6 +112135,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=146, y=117
+	BonusType=BONUS_SHRIMP
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -113591,6 +113625,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=148, y=109
+	BonusType=BONUS_SHRIMP
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -113642,6 +113677,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=148, y=117
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -115044,6 +115080,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=150, y=97
+	BonusType=BONUS_MELONS
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -115090,6 +115127,7 @@ BeginPlot
 	x=150, y=104
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_OBSIDIAN
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
@@ -115131,6 +115169,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=150, y=110
+	BonusType=BONUS_LOBSTER
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -115809,6 +115848,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=151, y=98
+	BonusType=BONUS_SUGAR
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -115850,6 +115890,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=151, y=105
+	BonusType=BONUS_MUSHROOMS
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -115891,6 +115932,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=151, y=111
+	BonusType=BONUS_FISH
 	FeatureType=FEATURE_SEA_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
@@ -118874,6 +118916,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=155, y=104
+	BonusType=BONUS_POTATOES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -128425,6 +128468,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=167, y=100
+	BonusType=BONUS_POTATOES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -140915,6 +140959,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=182, y=95
+	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -141416,6 +141461,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=183, y=41
+	BonusType=BONUS_MELONS
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -142238,6 +142284,7 @@ BeginPlot
 	x=184, y=40
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_SQUASH
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
@@ -143984,6 +144031,7 @@ BeginPlot
 	x=186, y=51
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_MELONS
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -144804,6 +144852,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=187, y=50
+	BonusType=BONUS_SQUASH
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -150728,6 +150777,7 @@ BeginPlot
 	x=194, y=93
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -160878,6 +160928,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=207, y=98
+	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_TAR_PIT, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
@@ -170187,6 +170238,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=219, y=120
+	BonusType=BONUS_PIG
 	FeatureType=FEATURE_PEAT_BOG, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -171505,6 +171557,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=221, y=83
+	BonusType=BONUS_OLIVES
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -171546,7 +171599,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=221, y=89
-	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -172268,6 +172320,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=222, y=79
+	BonusType=BONUS_LOBSTER
 	FeatureType=FEATURE_CORAL_REEF, FeatureVariety=0
 	TerrainType=TERRAIN_COAST_TROPICAL
 	PlotType=3
@@ -172360,7 +172413,6 @@ BeginPlot
 	x=222, y=91
 	RiverNSDirection=2
 	isWOfRiver
-	BonusType=BONUS_SPICES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -175446,6 +175498,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=226, y=74
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
@@ -175487,6 +175540,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=226, y=80
+	BonusType=BONUS_MARBLE
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
 EndPlot
@@ -176341,6 +176395,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=227, y=88
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_CACTUS, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=2
@@ -177929,6 +177984,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=229, y=84
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -180359,6 +180415,7 @@ BeginPlot
 	x=232, y=87
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_MARBLE
 	FeatureType=FEATURE_FOREST_BURNT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -180605,6 +180662,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=232, y=129
+	BonusType=BONUS_PIG
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
@@ -184427,6 +184485,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=237, y=122
+	BonusType=BONUS_PIG
 	TerrainType=TERRAIN_TAIGA
 	PlotType=2
 EndPlot
@@ -184952,6 +185011,7 @@ BeginPlot
 	x=238, y=82
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_SILK
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -185722,6 +185782,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=239, y=81
+	BonusType=BONUS_LOBSTER
 	TerrainType=TERRAIN_COAST_TROPICAL
 	PlotType=3
 EndPlot
@@ -190388,6 +190449,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=245, y=77
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_SWAMP, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -196602,7 +196664,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=253, y=36
-	FeatureType=FEATURE_PLATY_EVEREST, FeatureVariety=0
+	FeatureType=FEATURE_PLATY_SHARK_BAY, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -197641,6 +197703,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=254, y=74
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -198482,6 +198545,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=74
+	BonusType=BONUS_MUSHROOMS
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -198562,6 +198626,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=255, y=85
+	BonusType=BONUS_DATES
 	FeatureType=FEATURE_FOREST_YOUNG, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -200253,6 +200318,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=257, y=90
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -200280,6 +200346,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=257, y=94
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
@@ -205218,6 +205285,7 @@ BeginPlot
 	x=263, y=92
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -206542,7 +206610,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=265, y=39
-	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -207638,6 +207705,7 @@ BeginPlot
 	x=266, y=85
 	RiverNSDirection=2
 	isWOfRiver
+	BonusType=BONUS_OLIVES
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -207709,6 +207777,7 @@ BeginPlot
 	x=266, y=95
 	isNOfRiver
 	RiverWEDirection=1
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST_ANCIENT, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -208489,6 +208558,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=267, y=92
+	BonusType=BONUS_MUSHROOMS
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
@@ -209354,7 +209424,6 @@ BeginPlot
 	x=268, y=99
 	isNOfRiver
 	RiverWEDirection=1
-	BonusType=BONUS_TEA
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -209919,6 +209988,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=269, y=56
+	BonusType=BONUS_PAPAYA
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
@@ -210199,6 +210269,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=269, y=101
+	BonusType=BONUS_TEA
 	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
@@ -215801,6 +215872,7 @@ BeginPlot
 	x=276, y=98
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -216368,6 +216440,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=277, y=56
+	BonusType=BONUS_PAPAYA
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
 EndPlot
@@ -221109,6 +221182,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=52
+	BonusType=BONUS_PAPAYA
 	TerrainType=TERRAIN_LUSH
 	PlotType=2
 EndPlot
@@ -221343,6 +221417,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=283, y=95
+	BonusType=BONUS_OLIVES
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
@@ -221872,7 +221947,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=284, y=46
-	FeatureType=FEATURE_MANGROVE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST_DEEP_TROPICAL
 	PlotType=3
 EndPlot
@@ -222124,6 +222198,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=284, y=94
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_MUDDY
 	PlotType=2
 EndPlot
@@ -222907,6 +222982,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=285, y=93
+	BonusType=BONUS_LEMONS
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
