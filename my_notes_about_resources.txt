@@ -353,34 +353,34 @@ hercules beattle: papaya + silk = done
 nutmeg: papaya + spices = done
 assasin bug: parrots + silk = d
 canary: parrots + wheat = done
-cockatoo: parrots + pistachio
-peacock: parrots + spices
-parrotfish: pearls + whale
-cardon cactus: peyote + prickly pear
-mezcal worm: peyote + silk
-praying mantis: peyote + tea
-boar: pigs
-firefly gatherer: pistachio + silk
-cabbage: potatoes + tea
-carrot: potatoes + wheat
-cucumber: potatoes + squash
-garlic: potatoes + spices
-kale: potatoes + tobacco
-leek: potatoes + rice
-sweet potatoes: potatoes + sugar
-pigeon: poultry + stone
-agave+ prickly pear + sugar
-ark of covenant: prime timber
-confuncian school: prime timber
-quanzhen school: prime timber
-oak: prime timber + wheat
-cloves: prime timber + spices
-curare: prime timber
-maple: prime timber + sugar
-chinchilla: rabbit + beavers
-acacia: resin + spices
-mopane moth: resin + silk
-celery: rice + sugar
+cockatoo: parrots + pistachio = done
+peacock: parrots + spices = done
+parrotfish: pearls + whale = d
+cardon cactus: peyote + prickly pear = done
+mezcal worm: peyote + silk = k
+praying mantis: peyote + tea = idk
+boar: pigs = k
+firefly gatherer: pistachio + silk = k
+cabbage: potatoes + tea = done
+carrot: potatoes + wheat = done
+cucumber: potatoes + squash = done
+garlic: potatoes + spices = d
+kale: potatoes + tobacco = k
+leek: potatoes + rice = k
+sweet potatoes: potatoes + sugar = done
+pigeon: poultry + stone = ok
+agave: prickly pear + sugar = k
+ark of covenant: prime timber = lost
+confuncian school: prime timber = idk what that is
+quanzhen school: prime timber = done
+oak: prime timber + wheat = ok
+cloves: prime timber + spices = done
+curare: prime timber = idk what that is
+maple: prime timber + sugar = k
+chinchilla: rabbit + beavers = d
+acacia: resin + spices = d
+mopane moth: resin + silk = k
+celery: rice + sugar = no info
 ginger root: rice + spices
 soybean: rice + wheat
 wasabi: rice + tea
