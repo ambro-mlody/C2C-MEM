@@ -381,31 +381,31 @@ chinchilla: rabbit + beavers = d
 acacia: resin + spices = d
 mopane moth: resin + silk = k
 celery: rice + sugar = no info
-ginger root: rice + spices
-soybean: rice + wheat
-wasabi: rice + tea
-garnet: rubies + salt
-borax: salt + stone
-fluorite: sapphires + stone
-beluga: sea lion and seal + whale
-elephant seal: sea lion and seal + walrus
-sea otter: sea lion and seal + beavers
-mink: sheep + beavers
-mouflon: sheep
-muskox: sheep + bison
-goat: sheep
-marlin: shrimp + whale
-pillbug: shrimp + silk
-cricket gatherer: silk + spices
-mealworm gatherer: silk + wheat
-chives: spices + tobacco
-ginkgo: spices + tea
-rhubarb: spices + sugar
-sesame: spices + wheat
-via appia: stone
-behistun inscription: stone
-el escoral: stone
-six harmonies pagoda: stone
+ginger root: rice + spices = k
+soybean: rice + wheat = done
+wasabi: rice + tea = done
+garnet: rubies + salt = done
+borax: salt + stone = d
+fluorite: sapphires + stone = done
+beluga: sea lion and seal + whale = d
+elephant seal: sea lion and seal + walrus = d
+sea otter: sea lion and seal + beavers = k
+mink: sheep + beavers = d
+mouflon: sheep = d
+muskox: sheep + bison = d
+goat: sheep = k
+marlin: shrimp + whale = k
+pillbug: shrimp + silk = k
+cricket gatherer: silk + spices = k
+mealworm gatherer: silk + wheat = k
+chives: spices + tobacco = idk
+ginkgo: spices + tea = done
+rhubarb: spices + sugar = k
+sesame: spices + wheat = done
+via appia: stone = done
+behistun inscription: stone = done
+el escoral: stone = done
+six harmonies pagoda: stone = done
 gate of the sun: stone
 gobekil tepe: stone
 krak des chevaliers: stone
@@ -416,7 +416,7 @@ stonehenge: stone
 fine stoneware carvers: stone
 chalk: stone
 cobalt: stone + sulphur
-lizards: stone
+lizards: stone = k
 sorghum: sugar + wheat
 millet: tea + wheat
 narwhal: walrus + whale
