@@ -406,20 +406,20 @@ via appia: stone = done
 behistun inscription: stone = done
 el escoral: stone = done
 six harmonies pagoda: stone = done
-gate of the sun: stone
-gobekil tepe: stone
-krak des chevaliers: stone
-ha'amonga'a Maui: stone
-moai status: stone
-muiderslot castle: stone
-stonehenge: stone
-fine stoneware carvers: stone
-chalk: stone
-cobalt: stone + sulphur
+gate of the sun: stone = done
+gobekil tepe: stone = done
+krak des chevaliers: stone = done
+ha'amonga'a Maui: stone = done
+moai status: stone = done
+muiderslot castle: stone = done
+stonehenge: stone = done
+fine stoneware carvers: stone = idk
+chalk: stone = k
+cobalt: stone + sulphur = d
 lizards: stone = k
-sorghum: sugar + wheat
-millet: tea + wheat
-narwhal: walrus + whale
+sorghum: sugar + wheat = d
+millet: tea + wheat = d
+narwhal: walrus + whale = k
 -- final reduction, balancing
 file.write(f"\tVersion=C2C_2\n")
         file.write(f"\tDescription=Custom Earth Map\n")
