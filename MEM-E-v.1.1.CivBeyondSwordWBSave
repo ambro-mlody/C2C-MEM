@@ -111,7 +111,6 @@ CivType=CIVILIZATION_GERMANY
 LeaderType=LEADER_BISMARCK
 StartingX=163, StartingY=111
 EndPlayer
-EndPlayer
 BeginPlayer
 CivType=CIVILIZATION_GREECE
 LeaderType=LEADER_ALEXANDER
@@ -220,7 +219,7 @@ EndPlayer
 BeginPlayer
 CivType=CIVILIZATION_IROQUOIS
 LeaderType=LEADER_DEGANAWIDA
-StartingX=95, StartingY=103
+StartingX=96, StartingY=103
 EndPlayer
 BeginPlot
 	x=0, y=0
@@ -53151,11 +53150,14 @@ EndPlot
 BeginPlot
 	x=71, y=78
 	BonusType=BONUS_GEODE
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=1
 EndPlot
 BeginPlot
 	x=71, y=79
+	isNOfRiver
+	RiverWEDirection=1
 	TerrainType=TERRAIN_ROCKY
 	PlotType=0
 EndPlot
@@ -61014,7 +61016,6 @@ EndPlot
 BeginPlot
 	x=81, y=79
 	BonusType=BONUS_STONE
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_JAGGED
 	PlotType=2
 EndPlot
@@ -72814,7 +72815,6 @@ BeginPlot
 	RiverNSDirection=2
 	isWOfRiver
 	BonusType=BONUS_COW
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -72844,7 +72844,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=96, y=105
-	BonusType=BONUS_COW
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -74506,7 +74505,6 @@ EndPlot
 BeginPlot
 	x=98, y=104
 	BonusType=BONUS_SPICES
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -94280,6 +94278,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=123, y=46
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MUDDY
 	PlotType=1
 EndPlot
@@ -109413,7 +109412,6 @@ EndPlot
 BeginPlot
 	x=143, y=100
 	BonusType=BONUS_STONE
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -112453,7 +112451,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=147, y=100
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
@@ -114780,6 +114777,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	BonusType=BONUS_AMBER
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_ROCKY
 	PlotType=2
 EndPlot
@@ -117780,7 +117778,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=154, y=107
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -120009,7 +120006,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=157, y=96
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -120765,7 +120761,7 @@ EndPlot
 BeginPlot
 	x=158, y=95
 	BonusType=BONUS_LEAD_ORE
-	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -124796,7 +124792,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=163, y=112
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -125571,6 +125566,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=164, y=109
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_JAGGED
 	PlotType=1
 EndPlot
@@ -128121,6 +128117,7 @@ EndPlot
 BeginPlot
 	x=167, y=120
 	BonusType=BONUS_LEAD_ORE
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -132084,7 +132081,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=172, y=100
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -135856,6 +135853,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=177, y=39
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -137010,6 +137008,7 @@ EndPlot
 BeginPlot
 	x=178, y=98
 	BonusType=BONUS_COAL
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
@@ -138544,7 +138543,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=180, y=83
-	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -141041,6 +141039,7 @@ BeginPlot
 	x=183, y=83
 	isNOfRiver
 	RiverWEDirection=3
+	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -143416,6 +143415,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=186, y=70
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -145858,6 +145858,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=189, y=73
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_LUSH
 	PlotType=1
 EndPlot
@@ -145902,13 +145903,12 @@ EndPlot
 BeginPlot
 	x=189, y=81
 	BonusType=BONUS_CAMEL
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DUNES
 	PlotType=2
 EndPlot
 BeginPlot
 	x=189, y=82
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
+	FeatureType=FEATURE_OASIS, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -146646,7 +146646,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=190, y=72
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -146714,7 +146713,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=190, y=84
-	FeatureType=FEATURE_OASIS, FeatureVariety=0
 	TerrainType=TERRAIN_DUNES
 	PlotType=2
 EndPlot
@@ -150730,7 +150728,6 @@ BeginPlot
 	x=195, y=90
 	RiverNSDirection=2
 	isWOfRiver
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -152206,6 +152203,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=197, y=74
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -152311,12 +152309,12 @@ EndPlot
 BeginPlot
 	x=197, y=92
 	BonusType=BONUS_SULPHUR
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_SCRUB
 	PlotType=1
 EndPlot
 BeginPlot
 	x=197, y=93
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -156898,6 +156896,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=203, y=89
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_BADLAND
 	PlotType=1
 EndPlot
@@ -198401,6 +198400,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=256, y=107
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_BARREN
 	PlotType=2
 EndPlot
@@ -207287,7 +207287,6 @@ EndPlot
 BeginPlot
 	x=267, y=97
 	BonusType=BONUS_RICE
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_MARSH
 	PlotType=2
 EndPlot
@@ -207746,6 +207745,7 @@ EndPlot
 BeginPlot
 	x=268, y=37
 	BonusType=BONUS_OLIVES
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
@@ -208932,12 +208932,12 @@ EndPlot
 BeginPlot
 	x=269, y=100
 	BonusType=BONUS_LEAD_ORE
+	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
 EndPlot
 BeginPlot
 	x=269, y=101
-	FeatureType=FEATURE_CAVES, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=2
 EndPlot
@@ -223539,6 +223539,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=288, y=25
+	isNOfRiver
+	RiverWEDirection=3
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASSLAND
 	PlotType=1
