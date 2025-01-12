@@ -5,7 +5,7 @@ Based on Earth by God.<br/>
 Size: 320x140<br/>
 It uses Equirectangular projection.<br/>
 Height map based on https://visibleearth.nasa.gov/images/73934/topography for land, and https://visibleearth.nasa.gov/images/73963/bathymetry for oceans.<br/>
-Terrain map based on https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#Other_K%C3%B6ppen_climate_maps with some randomization.<br/>
+Terrain map based on https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification with some randomization.<br/>
 Resources location based on historical and current production. Some bonus resources have been placed randomly so there won't be huge swats of empty land. <br/>
 All cultures should be obtainable in their historical locations.<br/>
 True start location for listed civs.<br/>
